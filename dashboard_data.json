@@ -1,0 +1,191 @@
+{
+  "last_updated": "2026-07-04 06:32 Israel Time",
+  "ai_overview": "New utilities, including KStuff Lite 1.09 and LibProsperoPKG v1.2, have been released for the PS5 jailbreak community. A critical addition is the newly available feature to restore PS5 saves after a successful jailbreak. Caution remains advised, as recent activity highlights the risk of bans when connecting vulnerable consoles to PSN services.",
+  "generated_by": "LM Studio",
+  "posts": [
+    {
+      "id": "reddit:1umwdk6",
+      "source": "reddit",
+      "title": "KStuff Lite 1.09 by EchoStretch is out",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1umwdk6/kstuff_lite_109_by_echostretch_is_out/",
+      "author": "u/Prestigious-Use5483",
+      "timestamp": "2026-07-04T01:52:51+00:00",
+      "summary": "KStuff Lite 1.09 is available, fixing the ability to disable ASLR on firmware versions 11.xx and 12.xx.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1umuqsd",
+      "source": "reddit",
+      "title": "I'm getting a new FAT PS5 CFI-1000A",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1umuqsd/im_getting_a_new_fat_ps5_cfi1000a/",
+      "author": "u/SosiasBlack",
+      "timestamp": "2026-07-04T00:33:03+00:00",
+      "summary": "User acquired a CFI-1000A PS5 expecting very early firmware (e.g., 1.0) and seeks community advice on using it for Linux or emulation projects.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1umjzbm",
+      "source": "reddit",
+      "title": "TeRex777 got banned from PSN by connecting on a 10.20 PS5",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1umjzbm/terex777_got_banned_from_psn_by_connecting_on_a/",
+      "author": "u/Stephan2005",
+      "timestamp": "2026-07-03T17:02:23+00:00",
+      "summary": "PSN ban occurred on a 10.20 PS5 after a user attempted to access/dump GTA 6 Day One content, highlighting Sony's strict security measures.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1umap8z",
+      "source": "reddit",
+      "title": "Release LibProsperoPKG v1.2 · SvenGDK/LibProsperoPKG",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1umap8z/release_libprosperopkg_v12_svengdklibprosperopkg/",
+      "author": "u/a1mhtar",
+      "timestamp": "2026-07-03T10:25:47+00:00",
+      "summary": "LibProsperoPKG v1.2 released with Kraken encoder optimizations, sce_suppl ZIP fixes, and native library support for Linux/macOS.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1um9fjb",
+      "source": "reddit",
+      "title": "Restore Ps5 Saves after JB",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1um9fjb/restore_ps5_saves_after_jb/",
+      "author": "u/Callintz96",
+      "timestamp": "2026-07-03T09:13:36+00:00",
+      "summary": "Discussion regarding methods to extract and restore PS5 game saves before and after jailbreaking a Fat model (11.60) while patching the BD reader.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "youtube:lAAQJOywD-8",
+      "source": "youtube",
+      "title": "PS5 Jailbreak News: Kstuff 1.08, Linux Updated with New firmware support, ShadowMount & More!",
+      "link": "https://www.youtube.com/watch?v=lAAQJOywD-8",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-06-30T20:09:09+00:00",
+      "summary": "Kstuff Light version 1.08 has been released, fixing performance issues and allowing it to run during game loads without lag. ShadowMount Plus v1.6 beta 16 adds backport features, and Linux now supports firmware 7.61.",
+      "highlights": [
+        "Kstuff Light v1.08 fixes previous performance impacts, allowing continuous operation during game loads.",
+        "Testing showed v1.08 reduced load times significantly, going from ~40 seconds (v1.07) to just over 20 seconds.",
+        "ShadowMount Plus v1.6 beta 16 adds backport support, allowing modules without rebuilding the image file.",
+        "SMP users can disable Kstuff auto-pausing by setting 'kuff game auto toggle = 0' in the config.ini.",
+        "Linux now includes support for PS5 firmware version 7.61 and higher."
+      ],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/lAAQJOywD-8/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:3_outVP_81c",
+      "source": "youtube",
+      "title": "Updating PS5 Jailbreak & Improving Stability",
+      "link": "https://www.youtube.com/watch?v=3_outVP_81c",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-06-27T16:11:31+00:00",
+      "summary": "This video guides users through updating the YouTube jailbreak from version 0.8 to the stable release v0.9 and provides several methods to improve exploit stability on your PS5.",
+      "highlights": [
+        "Stability Tip: Disabling network connection before running the jailbreak lowers the master number (e.g., 34 to 31).",
+        "Updating: Use y2jb_update.zip on a FAT32/exFAT USB drive to update from v0.8 to stable v0.9.",
+        "Advanced Update: For firmwares > 10.01, use v0.8 to extract the PS5 autoloader folder for automatic payload manager loa…",
+        "Crash Fix: Adding a delay (e.g., !1000) to payloads can improve stability when running the YouTube jailbreak."
+      ],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/3_outVP_81c/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:uk8ST5NRFJE",
+      "source": "youtube",
+      "title": "New PS4/PS5 WebKit exploit released (Overview & Setup)",
+      "link": "https://www.youtube.com/watch?v=uk8ST5NRFJE",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-06-25T07:39:11+00:00",
+      "summary": "A new WebKit exploit has been released for PS4 and PS5. It allows jailbreaking on specific firmware ranges, though the PS5 version still requires an ASLR defeat method to be fully functional.",
+      "highlights": [
+        "New WebKit exploit chain allows jailbreaking on PS4 firmware 6.0 to 1150.",
+        "The current tested version works on firmware 9.00, achieving Use After Free and Arbitrary Read/Write.",
+        "PS5 exploit requires an ASLR defeat method to overcome vtable checks and become usable.",
+        "The vulnerability scope covers PS4 6.0-13.52 and PS5 1.00-13.40.",
+        "A detailed technical writeup is available, contributed by Nathan Fargo and UFM42."
+      ],
+      "category": "News",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/uk8ST5NRFJE/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:xb5ujsKBet4",
+      "source": "youtube",
+      "title": "PS5 Jailbreak News: FPKG Alternative Coming using A53 & Kraken Compression",
+      "link": "https://www.youtube.com/watch?v=xb5ujsKBet4",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-06-24T18:29:20+00:00",
+      "summary": "A significant proof of concept has emerged utilizing the PS5's A53 co-processor and Kraken compression to natively load games. This breakthrough promises much faster loading times and smaller file sizes compared to current methods.",
+      "highlights": [
+        "Native loading achieved using the A53 co-processor and Kraken compression algorithm.",
+        "Proof of concept verified with Evergate and GTA V footage; files are in .phu format.",
+        "Demonstrated massive size savings: Spider-Man 2 compressed from ~255 GB to 113 GB.",
+        "This method offers faster loading and resolves current issues with image files or compression overhead."
+      ],
+      "category": "News",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/xb5ujsKBet4/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:DzB0qr4GkaU",
+      "source": "youtube",
+      "title": "How to run your PS5 Games, Updates & Backports on a Jailbroken PS5",
+      "link": "https://www.youtube.com/watch?v=DzB0qr4GkaU",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-06-21T14:18:15+00:00",
+      "summary": "This guide explains how to install and run PS5 game backups, updates, and DLC using various storage methods like USB or internal drives.",
+      "highlights": [
+        "Game backups can be run from external USB, internal SSD, or NVMe drives.",
+        "External USB storage must be formatted in exFAT and is recommended for initial testing.",
+        "Game dumps can use a folder structure or a single file (.XFAT/.FFPKG).",
+        "Use Shadow Mount Plus to detect and load game backups on the PS5.",
+        "High-speed (10 Gbps) drives are recommended to minimize load times and lag."
+      ],
+      "category": "Games",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/DzB0qr4GkaU/hqdefault.jpg"
+    },
+    {
+      "id": "reddit:1ulez4j",
+      "source": "reddit",
+      "title": "PS5 jailbreak scene is moving fast right now",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1ulez4j/ps5_jailbreak_scene_is_moving_fast_right_now/",
+      "author": "u/CharmingWalk2007",
+      "timestamp": "2026-07-02T10:57:20+00:00",
+      "summary": "PS5 jailbreak scene updates include major PS5 Linux improvements, A53 game loading progress, and updates to Kstuff/ShadowMount. Video available for details.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uktkh5",
+      "source": "reddit",
+      "title": "Took me 4 tried and half of day but it's done .",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uktkh5/took_me_4_tried_and_half_of_day_but_its_done/",
+      "author": "u/iprime11",
+      "timestamp": "2026-07-01T18:20:15+00:00",
+      "summary": "Firmware 12.4 is stable when combined with shadowmountplus, kstuff lite, nanodns, and ftpsrv (internal SSD user). Initial attempts required troubleshooting.",
+      "highlights": [],
+      "category": "FW Updates",
+      "score": null,
+      "thumbnail": ""
+    }
+  ]
+}
