@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-04 23:43 Israel Time",
-  "ai_overview": "The current status of the Y2JB exploit against firmware 13.20 is being detailed in this update. Additionally, information has been compiled regarding the best operational version for firmware 7.61.",
+  "last_updated": "2026-07-05 06:02 Israel Time",
+  "ai_overview": "A new WebKit exploit has been released, providing a foundational vulnerability for both PS4 and PS5 devices. The dashboard also details significant stability updates, including a new payload injector and developments regarding an FPKG alternative for enhanced game compatibility. Users can also find guides on running backports and updates on a jailbroken PS5.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1unp2gk",
+      "source": "reddit",
+      "title": "Another payload injector 🥱, but you might like this one.",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1unp2gk/another_payload_injector_but_you_might_like_this/",
+      "author": "u/blvrf",
+      "timestamp": "2026-07-05T01:05:36+00:00",
+      "summary": "Blurfer v2.0 payload injector allows manual placement and custom port setting per payload, defaulting to 9021.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1unhc93",
       "source": "reddit",
@@ -138,6 +151,81 @@
       "category": "Tools",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/lAAQJOywD-8/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:3_outVP_81c",
+      "source": "youtube",
+      "title": "Updating PS5 Jailbreak & Improving Stability",
+      "link": "https://www.youtube.com/watch?v=3_outVP_81c",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-06-27T16:11:31+00:00",
+      "summary": "This tutorial guides users through updating their PS5 jailbreak from version 0.8 to the stable release v0.9, along with advanced tips for improving exploit stability.",
+      "highlights": [
+        "Disable network connection before running the jailbreak to improve stability; Master number can drop from 34 to 31.",
+        "Update Auto Loader v0.8 to the stable release v0.9 using the y2jb_update.zip file on a USB drive.",
+        "To ensure automatic Payload Manager loading after updating, extract the PS5 autoloader folder onto the USB drive.",
+        "Adding a delay (e.g., !1000) to payloads can help prevent crashes when running the YouTube jailbreak.",
+        "The most reliable method for updating to the latest version is using FTP."
+      ],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/3_outVP_81c/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:uk8ST5NRFJE",
+      "source": "youtube",
+      "title": "New PS4/PS5 WebKit exploit released (Overview & Setup)",
+      "link": "https://www.youtube.com/watch?v=uk8ST5NRFJE",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-06-25T07:39:11+00:00",
+      "summary": "A new WebKit exploit has been released, offering a jailbreaking path for certain PS4 and PS5 firmware versions. While significant caveats exist, the exploit provides a potential path for higher firmware compatibility.",
+      "highlights": [
+        "New WebKit exploit released, with initial testing conducted on firmware 9.00 (PS4).",
+        "The vulnerability applies to PS4 firmwares 6.0–13.52, practically usable up to 1150.",
+        "PS5 usage requires defeating ASLR, but the exploit could potentially reach firmware 8.60.",
+        "The technical writeup details the chain: CSS Font Face to ARW, achieving Arbitrary Read/Write.",
+        "The exploit is browser-based and involves overcoming Vtable checks on newer firmwares."
+      ],
+      "category": "News",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/uk8ST5NRFJE/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:xb5ujsKBet4",
+      "source": "youtube",
+      "title": "PS5 Jailbreak News: FPKG Alternative Coming using A53 & Kraken Compression",
+      "link": "https://www.youtube.com/watch?v=xb5ujsKBet4",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-06-24T18:29:20+00:00",
+      "summary": "A proof of concept has emerged for running PS5 game dumps natively using the A53 processor and Kraken compression, offering massive potential improvements in loading speed and file size.",
+      "highlights": [
+        "Proof of concept achieved for native PS5 game loading via A53 processor and Kraken compression.",
+        "Significant size savings demonstrated; Spider-Man 2 compressed from ~255 GB to 113 GB.",
+        "This method avoids current format issues like open folders, PFS compression, and APR emulation overhead.",
+        "Currently in .phu format; requires future payloads and conversion tools to be fully usable."
+      ],
+      "category": "Games",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/xb5ujsKBet4/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:DzB0qr4GkaU",
+      "source": "youtube",
+      "title": "How to run your PS5 Games, Updates & Backports on a Jailbroken PS5",
+      "link": "https://www.youtube.com/watch?v=DzB0qr4GkaU",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-06-21T14:18:15+00:00",
+      "summary": "This tutorial details how to install and run PS5 game backups using various storage methods, covering file structures, formatting, and required software to successfully load your dumps.",
+      "highlights": [
+        "Game backups can be loaded from USB, internal SSD, or NVMe drives.",
+        "External USB storage is recommended; use a drive capable of 10 Gbps for optimal speed.",
+        "Drives must be formatted in exFAT. Dumps can use folder structure or single files (.XFAT/.FFPKG).",
+        "Use Payload Manager and Shadow Mount Plus to detect and load game backups.",
+        "DLC, updates, and backport patches are installed by copying files into the main game folder."
+      ],
+      "category": "Games",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/DzB0qr4GkaU/hqdefault.jpg"
     }
   ]
 }
