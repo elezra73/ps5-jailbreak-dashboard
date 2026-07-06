@@ -1,8 +1,79 @@
 {
-  "last_updated": "2026-07-05 06:02 Israel Time",
-  "ai_overview": "A new WebKit exploit has been released, providing a foundational vulnerability for both PS4 and PS5 devices. The dashboard also details significant stability updates, including a new payload injector and developments regarding an FPKG alternative for enhanced game compatibility. Users can also find guides on running backports and updates on a jailbroken PS5.",
+  "last_updated": "2026-07-06 06:04 Israel Time",
+  "ai_overview": "The jailbreak community",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1uodfun",
+      "source": "reddit",
+      "title": "Y2JB etaHEN o kstuff",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uodfun/y2jb_etahen_o_kstuff/",
+      "author": "u/DGKYNG1",
+      "timestamp": "2026-07-05T21:03:05+00:00",
+      "summary": "Discussion regarding payload selection (etaHEN vs kstuff) when exploiting YouTube on FW 10.01, noting reported instability with etaHEN.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uo42ve",
+      "source": "reddit",
+      "title": "Im new to the ps5 jailbreak and im so confused pls help",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uo42ve/im_new_to_the_ps5_jailbreak_and_im_so_confused/",
+      "author": "u/iSimp4U",
+      "timestamp": "2026-07-05T14:49:14+00:00",
+      "summary": "New PS5 jailbreak beginner asks technical questions regarding Y2JB, backup compatibility (13.20), disc drive pairing, and native app usage.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uo3s7r",
+      "source": "reddit",
+      "title": "Getting This Screen After Going On Rest Mode on 12.40",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uo3s7r/getting_this_screen_after_going_on_rest_mode_on/",
+      "author": "u/NextKing2972",
+      "timestamp": "2026-07-05T14:36:37+00:00",
+      "summary": "User experienced a screen issue after entering rest mode on firmware 12.40, possibly related to network address changes during sleep.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uo1ftz",
+      "source": "reddit",
+      "title": "v27 of my all in one BDJB iso is out!!!",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uo1ftz/v27_of_my_all_in_one_bdjb_iso_is_out/",
+      "author": "u/False_Risk_5955",
+      "timestamp": "2026-07-05T12:51:15+00:00",
+      "summary": "A new version (v27) of an all-in-one BDJB modified ISO is available on GitHub.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "youtube:pvQQA4tJiHQ",
+      "source": "youtube",
+      "title": "How to run your PS4 Content, Games & Updates on a Jailbroken PS5",
+      "link": "https://www.youtube.com/watch?v=pvQQA4tJiHQ",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-07-05T09:30:35+00:00",
+      "summary": "This tutorial details how to install and run PlayStation 4 games on a jailbroken PS5 using PKG package files. The process involves verifying the file integrity and installing them via a formatted USB drive.",
+      "highlights": [
+        "PS4 games are installed using PKG package files, which must be 'fake package' type to run on the PS5.",
+        "Use PS4 Package Viewer by Elman to verify package status, Title IDs (e.g., CUSA02819), and compatibility of Game/Update…",
+        "The simplest installation method is copying all PKG files directly to the root of an exFAT formatted USB drive.",
+        "On the PS5, use kstuff light (v1.08+) in Debug Settings to install packages onto the internal SSD.",
+        "While backports are less of an issue with PS4 games, they remain a factor to be aware of."
+      ],
+      "category": "Games",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/pvQQA4tJiHQ/hqdefault.jpg"
+    },
     {
       "id": "reddit:1unp2gk",
       "source": "reddit",
@@ -159,15 +230,14 @@
       "link": "https://www.youtube.com/watch?v=3_outVP_81c",
       "author": "MODDED WARFARE",
       "timestamp": "2026-06-27T16:11:31+00:00",
-      "summary": "This tutorial guides users through updating their PS5 jailbreak from version 0.8 to the stable release v0.9, along with advanced tips for improving exploit stability.",
+      "summary": "This tutorial details how to update your PS5 YouTube jailbreak (Auto Loader) to the latest stable version, v0.9, and provides several methods to improve exploit stability and prevent crashes.",
       "highlights": [
-        "Disable network connection before running the jailbreak to improve stability; Master number can drop from 34 to 31.",
-        "Update Auto Loader v0.8 to the stable release v0.9 using the y2jb_update.zip file on a USB drive.",
-        "To ensure automatic Payload Manager loading after updating, extract the PS5 autoloader folder onto the USB drive.",
-        "Adding a delay (e.g., !1000) to payloads can help prevent crashes when running the YouTube jailbreak.",
-        "The most reliable method for updating to the latest version is using FTP."
+        "The original backup contains Auto Loader v0.8; the new stable release is version 0.9.",
+        "Improve stability by disabling network settings before running the jailbreak, which lowers the Master number.",
+        "To update manually, place y2jb_update.zip on a FAT32/exFAT USB drive or use FTP.",
+        "Advanced stability fix: Adding a delay (`!`) to payloads (5-10 seconds) can prevent crashes."
       ],
-      "category": "Tools",
+      "category": "FW Updates",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/3_outVP_81c/hqdefault.jpg"
     },
@@ -178,15 +248,15 @@
       "link": "https://www.youtube.com/watch?v=uk8ST5NRFJE",
       "author": "MODDED WARFARE",
       "timestamp": "2026-06-25T07:39:11+00:00",
-      "summary": "A new WebKit exploit has been released, offering a jailbreaking path for certain PS4 and PS5 firmware versions. While significant caveats exist, the exploit provides a potential path for higher firmware compatibility.",
+      "summary": "A new WebKit exploit has been released for PS4 and PS5. While it is not a universal solution, it offers potential jailbreaking paths into newer firmware versions than previously possible.",
       "highlights": [
-        "New WebKit exploit released, with initial testing conducted on firmware 9.00 (PS4).",
-        "The vulnerability applies to PS4 firmwares 6.0–13.52, practically usable up to 1150.",
-        "PS5 usage requires defeating ASLR, but the exploit could potentially reach firmware 8.60.",
-        "The technical writeup details the chain: CSS Font Face to ARW, achieving Arbitrary Read/Write.",
-        "The exploit is browser-based and involves overcoming Vtable checks on newer firmwares."
+        "New WebKit exploit released by Nathan Fargo and UFM42, achieving Use After Free.",
+        "PS4 vulnerability scope is 6.0–13.52, with current testing on firmware 9.00.",
+        "PS4 potential: The exploit may allow jailbreaking up to firmware 11.50, a significant improvement.",
+        "PS5 usability requires defeating ASLR; if successful, it could work up to firmware 8.60.",
+        "The exploit chain achieves Arbitrary Read/Write primitives through CSS Font Face to ARW."
       ],
-      "category": "News",
+      "category": "Tools",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/uk8ST5NRFJE/hqdefault.jpg"
     },
@@ -197,35 +267,11 @@
       "link": "https://www.youtube.com/watch?v=xb5ujsKBet4",
       "author": "MODDED WARFARE",
       "timestamp": "2026-06-24T18:29:20+00:00",
-      "summary": "A proof of concept has emerged for running PS5 game dumps natively using the A53 processor and Kraken compression, offering massive potential improvements in loading speed and file size.",
-      "highlights": [
-        "Proof of concept achieved for native PS5 game loading via A53 processor and Kraken compression.",
-        "Significant size savings demonstrated; Spider-Man 2 compressed from ~255 GB to 113 GB.",
-        "This method avoids current format issues like open folders, PFS compression, and APR emulation overhead.",
-        "Currently in .phu format; requires future payloads and conversion tools to be fully usable."
-      ],
+      "summary": "How's it going guys? Welcome back to another PS5 jailbreak video. So, we have a pretty big development to talk about here in this video. This will be a quick video though because we're going through a bit of a heatwave right now and and I'…",
+      "highlights": [],
       "category": "Games",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/xb5ujsKBet4/hqdefault.jpg"
-    },
-    {
-      "id": "youtube:DzB0qr4GkaU",
-      "source": "youtube",
-      "title": "How to run your PS5 Games, Updates & Backports on a Jailbroken PS5",
-      "link": "https://www.youtube.com/watch?v=DzB0qr4GkaU",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-06-21T14:18:15+00:00",
-      "summary": "This tutorial details how to install and run PS5 game backups using various storage methods, covering file structures, formatting, and required software to successfully load your dumps.",
-      "highlights": [
-        "Game backups can be loaded from USB, internal SSD, or NVMe drives.",
-        "External USB storage is recommended; use a drive capable of 10 Gbps for optimal speed.",
-        "Drives must be formatted in exFAT. Dumps can use folder structure or single files (.XFAT/.FFPKG).",
-        "Use Payload Manager and Shadow Mount Plus to detect and load game backups.",
-        "DLC, updates, and backport patches are installed by copying files into the main game folder."
-      ],
-      "category": "Games",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/DzB0qr4GkaU/hqdefault.jpg"
     }
   ]
 }
