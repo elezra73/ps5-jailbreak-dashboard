@@ -1,8 +1,73 @@
 {
-  "last_updated": "2026-07-06 06:04 Israel Time",
-  "ai_overview": "The jailbreak community",
+  "last_updated": "2026-07-07 05:38 Israel Time",
+  "ai_overview": "A new WebKit exploit has been released, alongside an FPKG alternative utilizing A53 and Kraken compression to improve stability. Technical updates include the PS5-MemoryPeeker v1",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1upfpa0",
+      "source": "reddit",
+      "title": "12.00 firmware here on fat ps5, confused on which method",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1upfpa0/1200_firmware_here_on_fat_ps5_confused_on_which/",
+      "author": "u/Bigpoppasoto",
+      "timestamp": "2026-07-07T00:42:26+00:00",
+      "summary": "User seeking confirmation on jailbreaking PS5 firmware 12.00 using Y2JB or an ISO on a burnable disc.",
+      "highlights": [],
+      "category": "FW Updates",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1upb6vf",
+      "source": "reddit",
+      "title": "[Release] PS5-MemoryPeeker v1.2Beta - EBOOT Memory Scanner & Editor for PS5Debug/libdebug",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1upb6vf/release_ps5memorypeeker_v12beta_eboot_memory/",
+      "author": "u/POWER-CHANGES-U",
+      "timestamp": "2026-07-06T21:42:20+00:00",
+      "summary": "PS5-MemoryPeeker v1.2Beta is released, providing an EBOOT memory scanner and editor compatible with PS5Debug/libdebug.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1up9acd",
+      "source": "reddit",
+      "title": "Release v2.4 · ps5-linux/ps5-linux-loader",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1up9acd/release_v24_ps5linuxps5linuxloader/",
+      "author": "u/a1mhtar",
+      "timestamp": "2026-07-06T20:31:25+00:00",
+      "summary": "ps5-linux loader has released version 2.4.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uor8s6",
+      "source": "reddit",
+      "title": "Ps5 JB backup",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uor8s6/ps5_jb_backup/",
+      "author": "u/MateCLUBmio",
+      "timestamp": "2026-07-06T08:21:16+00:00",
+      "summary": "User asks if PS5 system backups preserve the jailbreak state of installed apps (Netflix/YouTube) and allow for immediate restoration upon recovery.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uopdz7",
+      "source": "reddit",
+      "title": "Release v1.0.5 · StonedModder/Ghostcontrol-PS5-USB-Controller-Patcher",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uopdz7/release_v105/",
+      "author": "u/a1mhtar",
+      "timestamp": "2026-07-06T06:32:06+00:00",
+      "summary": "Ghostcontrol-PS5-USB-Controller-Patcher v1.0.5 released, adding support for 8BitDo Ultimate 2C Wireless (81HD) XInput controllers via USB-C and 2.4G dongle.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1uodfun",
       "source": "reddit",
@@ -230,14 +295,14 @@
       "link": "https://www.youtube.com/watch?v=3_outVP_81c",
       "author": "MODDED WARFARE",
       "timestamp": "2026-06-27T16:11:31+00:00",
-      "summary": "This tutorial details how to update your PS5 YouTube jailbreak (Auto Loader) to the latest stable version, v0.9, and provides several methods to improve exploit stability and prevent crashes.",
+      "summary": "This tutorial covers how to update your PS5 jailbreak autoloader from version 0.8 to the stable release of 0.9, along with several methods and tips for improving overall stability.",
       "highlights": [
-        "The original backup contains Auto Loader v0.8; the new stable release is version 0.9.",
-        "Improve stability by disabling network settings before running the jailbreak, which lowers the Master number.",
-        "To update manually, place y2jb_update.zip on a FAT32/exFAT USB drive or use FTP.",
-        "Advanced stability fix: Adding a delay (`!`) to payloads (5-10 seconds) can prevent crashes."
+        "Update the autoloader from version 0.8 to the new stable release, version 0.9.",
+        "Improve exploit stability by disabling network settings before running the jailbreak, lowering the master number.",
+        "Use `y2jb_update.zip` on a FAT32/exFAT USB drive for manual installation of the update.",
+        "Add a delay (`!`) to payloads or use the `PS5 autoloader` folder for automatic payload loading."
       ],
-      "category": "FW Updates",
+      "category": "Tools",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/3_outVP_81c/hqdefault.jpg"
     },
@@ -248,15 +313,14 @@
       "link": "https://www.youtube.com/watch?v=uk8ST5NRFJE",
       "author": "MODDED WARFARE",
       "timestamp": "2026-06-25T07:39:11+00:00",
-      "summary": "A new WebKit exploit has been released for PS4 and PS5. While it is not a universal solution, it offers potential jailbreaking paths into newer firmware versions than previously possible.",
+      "summary": "A new WebKit exploit has been released, offering potential jailbreak access via web browser on PS4 and PS5. Success depends heavily on firmware version and defeating ASLR on the PS5.",
       "highlights": [
-        "New WebKit exploit released by Nathan Fargo and UFM42, achieving Use After Free.",
-        "PS4 vulnerability scope is 6.0–13.52, with current testing on firmware 9.00.",
-        "PS4 potential: The exploit may allow jailbreaking up to firmware 11.50, a significant improvement.",
-        "PS5 usability requires defeating ASLR; if successful, it could work up to firmware 8.60.",
-        "The exploit chain achieves Arbitrary Read/Write primitives through CSS Font Face to ARW."
+        "New WebKit exploit released by Nathan Fargo and contributors, achieving Use After Free primitives.",
+        "PS4 vulnerability range is 6.0 to 13.52, with the current version tested on firmware 9.00.",
+        "PS4 is jailbreakable through the web browser up to firmware 11.50.",
+        "PS5 vulnerability range is 1.00 to 13.40, but requires a separate ASLR defeat method for use."
       ],
-      "category": "Tools",
+      "category": "News",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/uk8ST5NRFJE/hqdefault.jpg"
     },
