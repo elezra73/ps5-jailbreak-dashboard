@@ -1,8 +1,104 @@
 {
-  "last_updated": "2026-07-08 05:58 Israel Time",
-  "ai_overview": "Recent developments include the release of a new PS4/PS5 WebKit exploit and an alternative FPKG method utilizing A53 and Kraken compression. Various tools, including Kura v1.4.0 and Release v1.27, have been updated to enhance stability across different PS5 firmware versions.",
+  "last_updated": "2026-07-09 06:50 Israel Time",
+  "ai_overview": "The jailbreak community has focused on significant stability improvements and expanded compatibility. Kstuff 1.08 introduces updated Linux support, ShadowMount, and addresses various usage scenarios including Account Activation and Remote Play setups. Additionally, a new PS4/PS5 WebKit exploit has been released alongside various tool updates and loaders.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1urca21",
+      "source": "reddit",
+      "title": "Trying to install Elf Arsenal on 12.40 + itsplk autoloader. This is all I see /:",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1urca21/trying_to_install_elf_arsenal_on_1240_itsplk/",
+      "author": "u/Going_through_it_",
+      "timestamp": "2026-07-09T01:38:47+00:00",
+      "summary": "User seeking installation tips for Elf Arsenal on firmware 12.40 using the itsplk autoloader.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uqt79b",
+      "source": "reddit",
+      "title": "My PS5 keeps turning off after the 50-minute exploit ends",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uqt79b/my_ps5_keeps_turning_off_after_the_50minute/",
+      "author": "u/tonyw009",
+      "timestamp": "2026-07-08T13:47:44+00:00",
+      "summary": "User reports PS5 crashes and powers off after the 50-minute exploit period ends while using Y2JB v2.3 with Firmware 12.20.",
+      "highlights": [],
+      "category": "FW Updates",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uqt5wy",
+      "source": "reddit",
+      "title": "ARP EMU",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uqt5wy/arp_emu/",
+      "author": "u/MateCLUBmio",
+      "timestamp": "2026-07-08T13:46:14+00:00",
+      "summary": "Community discussion on whether it is safe to update the APR Emulator to version 2.6 for all game dumps, or if sticking with the original version is preferable.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "youtube:lywvo3p5_x8",
+      "source": "youtube",
+      "title": "Account Activation & Remote Play Setup on a Jailbroken PS5",
+      "link": "https://www.youtube.com/watch?v=lywvo3p5_x8",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-07-08T09:53:07+00:00",
+      "summary": "This guide covers how to activate your jailbroken PS5 account and set up remote play using various tools. Activation is necessary for features like Remote Play, loading media apps, and moving PS4 saves.",
+      "highlights": [
+        "Account activation is required for Remote Play, loading media apps (like YouTube), and moving PS4 saves.",
+        "Access Elf Arsenal's web panel by entering the PS5's IPv4 address into a browser on another device.",
+        "Remote Play can be set up using dedicated clients like Jackie/Chakai NG or the official PlayStation app.",
+        "Activation can be performed using a real PSN account ID, which may require conversion (Base64 to Hex) for Elf Arsenal."
+      ],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/lywvo3p5_x8/hqdefault.jpg"
+    },
+    {
+      "id": "reddit:1uqmckv",
+      "source": "reddit",
+      "title": "Picking up a 12.20 console located 5 miles from me in the next few days",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uqmckv/picking_up_a_1220_console_located_5_miles_from_me/",
+      "author": "u/CallMeIshMale91",
+      "timestamp": "2026-07-08T08:10:43+00:00",
+      "summary": "I found a unit on eBay located about 5 miles from me for less than $400 it’s a fat 825gb model. Had the seller confirm the fw with a picture. I’ll keep my other unit for updated play and the 12.20 co…",
+      "highlights": [],
+      "category": "FW Updates",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uqjo8b",
+      "source": "reddit",
+      "title": "Release v0.15 · notmaj0r/CheatRunner",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uqjo8b/release_v015_notmaj0rcheatrunner/",
+      "author": "u/a1mhtar",
+      "timestamp": "2026-07-08T05:38:27+00:00",
+      "summary": "Release v0.15 of CheatRunner is now available.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uqj5dw",
+      "source": "reddit",
+      "title": "Remote lua loader",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uqj5dw/remote_lua_loader/",
+      "author": "u/Vita_wetter",
+      "timestamp": "2026-07-08T05:10:32+00:00",
+      "summary": "Discussion regarding using a Lua loader with PS5 firmware 12.70, focusing on bypassing account sign-in requirements to transfer save files and account IDs.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1uqbre3",
       "source": "reddit",
@@ -322,17 +418,22 @@
       "thumbnail": ""
     },
     {
-      "id": "reddit:1uktkh5",
-      "source": "reddit",
-      "title": "Took me 4 tried and half of day but it's done .",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uktkh5/took_me_4_tried_and_half_of_day_but_its_done/",
-      "author": "u/iprime11",
-      "timestamp": "2026-07-01T18:20:15+00:00",
-      "summary": "Firmware 12.4 is stable when combined with shadowmountplus, kstuff lite, nanodns, and ftpsrv (internal SSD user). Initial attempts required troubleshooting.",
-      "highlights": [],
-      "category": "FW Updates",
+      "id": "youtube:lAAQJOywD-8",
+      "source": "youtube",
+      "title": "PS5 Jailbreak News: Kstuff 1.08, Linux Updated with New firmware support, ShadowMount & More!",
+      "link": "https://www.youtube.com/watch?v=lAAQJOywD-8",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-06-30T20:09:09+00:00",
+      "summary": "Kstuff Light v1.08 has been released, fixing major performance issues and allowing it to run with minimal impact while games load. ShadowMount Plus also received a new backports feature, and Linux support now extends to firmware 7.61.",
+      "highlights": [
+        "Kstuff Light v1.08 addresses performance impacts of previous versions, allowing games to load without stutters or lag.",
+        "ShadowMount Plus v1.6 beta 16 adds a backports feature, enabling module additions without rebuilding the image file.",
+        "Linux on PS5 now includes support for firmware up to 7.61.",
+        "Installation methods include Payload Manager updates or manual installation via GitHub/USB drive."
+      ],
+      "category": "Tools",
       "score": null,
-      "thumbnail": ""
+      "thumbnail": "https://i.ytimg.com/vi/lAAQJOywD-8/hqdefault.jpg"
     },
     {
       "id": "youtube:3_outVP_81c",
@@ -341,13 +442,12 @@
       "link": "https://www.youtube.com/watch?v=3_outVP_81c",
       "author": "MODDED WARFARE",
       "timestamp": "2026-06-27T16:11:31+00:00",
-      "summary": "This tutorial guides users through updating the Auto Loader from version 0.8 to the stable release v0.9 and offers several advanced techniques to improve jailbreak stability and prevent crashes.",
+      "summary": "This tutorial covers how to update the Auto Loader from version 0.8 to the stable release v0.9 and provides several advanced techniques to improve jailbreak stability on PS5.",
       "highlights": [
-        "Update Auto Loader from version 0.8 to the stable release v0.9 using a USB drive.",
-        "Improving stability by disabling network connection before running the jailbreak lowers the exploit's 'master number'.",
-        "For firmware above 10.01, use an older version's PS5 autoloader folder on USB to ensure Payload Manager loads.",
-        "Adding a delay (e.g., !1000) to payloads can significantly improve stability when running the YouTube jailbreak.",
-        "Manual updates are most reliably performed using FTP if you are not using the Auto Loader updater."
+        "Update Auto Loader from v0.8 to stable release v0.9 using the `y2jb_update.zip` file on a USB drive.",
+        "Improving stability: Disabling the network connection before running the jailbreak lowers the pipes master number (e.g.…",
+        "For firmwares above 10.01, use an older v0.8 download to extract the `PS5 autoloader` folder for automatic payload load…",
+        "To prevent crashes, adding a delay (e.g., `!1000`) to payloads can improve loading stability."
       ],
       "category": "Tools",
       "score": null,
@@ -360,29 +460,16 @@
       "link": "https://www.youtube.com/watch?v=uk8ST5NRFJE",
       "author": "MODDED WARFARE",
       "timestamp": "2026-06-25T07:39:11+00:00",
-      "summary": "Hey, how's it going guys? Welcome back to yet another update for the PS4 and PS5. So, news keeps coming in thick and fast here. So, we finally have the WebKit exploits released and this is one that has been highly anticipated for a while b…",
-      "highlights": [],
+      "summary": "A new WebKit exploit has been released for PS4 and PS5, offering significantly higher firmware compatibility on the PS4. However, full functionality on the PS5 requires a separate ASLR defeat method.",
+      "highlights": [
+        "The exploit is functional on PS4 firmware 6.0 to 1150, allowing jailbreaks via web browser.",
+        "PS5 usage is currently limited by the need to defeat ASLR and recover vtable pointers.",
+        "The current repository version is tested on PS4 firmware 9.00 and includes a technical writeup.",
+        "The vulnerability was achieved through the CSS Font Face to ARW exploit chain."
+      ],
       "category": "Tools",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/uk8ST5NRFJE/hqdefault.jpg"
-    },
-    {
-      "id": "youtube:xb5ujsKBet4",
-      "source": "youtube",
-      "title": "PS5 Jailbreak News: FPKG Alternative Coming using A53 & Kraken Compression",
-      "link": "https://www.youtube.com/watch?v=xb5ujsKBet4",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-06-24T18:29:20+00:00",
-      "summary": "A proof of concept has emerged utilizing the PS5's A53 processor and Kraken compression to natively load games. This offers significant size reduction and faster loading speeds compared to current jailbreak methods.",
-      "highlights": [
-        "Native game loading achieved using the A53 co-processor and Kraken compression algorithm.",
-        "Demonstrated over 50% size reduction; Spider-Man 2 compressed from ~255GB to 113GB.",
-        "The current format is .phu and remains a proof of concept, requiring future payloads for use.",
-        "This method avoids performance issues associated with current formats like open folders or PFS compression."
-      ],
-      "category": "News",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/xb5ujsKBet4/hqdefault.jpg"
     }
   ]
 }
