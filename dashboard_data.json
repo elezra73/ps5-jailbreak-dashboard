@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-10 05:49 Israel Time",
-  "ai_overview": "The jailbreak community continues to push updates with kstuff 13.42 and various Linux patches, alongside reports of a Switch 2 Userland exploit. Specifically regarding PS5 activity, testing has identified that firmware version 12.00 Y2JB experienced a crash after approximately 50 minutes on two separate occasions.",
+  "last_updated": "2026-07-11 05:42 Israel Time",
+  "ai_overview": "Kstuff has released version 1.08, introducing significant stability improvements and addressing issues related to corrupt game saves. The underlying Linux system has been updated, providing enhanced firmware compatibility and adding features such as ShadowMount.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1ut1822",
+      "source": "reddit",
+      "title": "Fixing corrupt game saves",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1ut1822/fixing_corrupt_game_saves/",
+      "author": "u/Public_Necessary_162",
+      "timestamp": "2026-07-10T21:45:29+00:00",
+      "summary": "Hey, so I made a mistake...I updated my user account id to match my PSN account via elf arsenal so I could remote play and transfer PS4 saves over...but in doing so, it corrupted all the saves I HAD…",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1urtglr",
       "source": "reddit",
@@ -397,69 +410,41 @@
       "thumbnail": ""
     },
     {
-      "id": "reddit:1umwdk6",
-      "source": "reddit",
-      "title": "KStuff Lite 1.09 by EchoStretch is out",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1umwdk6/kstuff_lite_109_by_echostretch_is_out/",
-      "author": "u/Prestigious-Use5483",
-      "timestamp": "2026-07-04T01:52:51+00:00",
-      "summary": "KStuff Lite 1.09 is available, fixing the ability to disable ASLR on firmware versions 11.xx and 12.xx.",
-      "highlights": [],
+      "id": "youtube:lAAQJOywD-8",
+      "source": "youtube",
+      "title": "PS5 Jailbreak News: Kstuff 1.08, Linux Updated with New firmware support, ShadowMount & More!",
+      "link": "https://www.youtube.com/watch?v=lAAQJOywD-8",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-06-30T20:09:09+00:00",
+      "summary": "Kstuff Light v1.08 has been released, fixing performance issues and allowing it to run during game loads with minimal impact. ShadowMount Plus v1.6 beta 16 adds backport support, and Linux now supports firmware up to 7.61.",
+      "highlights": [
+        "Kstuff Light v1.08 fixes previous performance impacts, allowing it to run during game loading with minimal slowdown.",
+        "ShadowMount Plus v1.6 beta 16 adds a feature to restore occupied mount points and supports adding backports/modules wit…",
+        "Linux support is now available for firmware up to 7.61.",
+        "Kstuff v1.08 testing shows significant load time reductions compared to previous versions (e.g., 40s down to 20s)."
+      ],
       "category": "Tools",
       "score": null,
-      "thumbnail": ""
+      "thumbnail": "https://i.ytimg.com/vi/lAAQJOywD-8/hqdefault.jpg"
     },
     {
-      "id": "reddit:1umuqsd",
-      "source": "reddit",
-      "title": "I'm getting a new FAT PS5 CFI-1000A",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1umuqsd/im_getting_a_new_fat_ps5_cfi1000a/",
-      "author": "u/SosiasBlack",
-      "timestamp": "2026-07-04T00:33:03+00:00",
-      "summary": "User acquired a CFI-1000A PS5 expecting very early firmware (e.g., 1.0) and seeks community advice on using it for Linux or emulation projects.",
-      "highlights": [],
-      "category": "News",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1umjzbm",
-      "source": "reddit",
-      "title": "TeRex777 got banned from PSN by connecting on a 10.20 PS5",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1umjzbm/terex777_got_banned_from_psn_by_connecting_on_a/",
-      "author": "u/Stephan2005",
-      "timestamp": "2026-07-03T17:02:23+00:00",
-      "summary": "PSN ban occurred on a 10.20 PS5 after a user attempted to access/dump GTA 6 Day One content, highlighting Sony's strict security measures.",
-      "highlights": [],
-      "category": "News",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1umap8z",
-      "source": "reddit",
-      "title": "Release LibProsperoPKG v1.2 · SvenGDK/LibProsperoPKG",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1umap8z/release_libprosperopkg_v12_svengdklibprosperopkg/",
-      "author": "u/a1mhtar",
-      "timestamp": "2026-07-03T10:25:47+00:00",
-      "summary": "LibProsperoPKG v1.2 released with Kraken encoder optimizations, sce_suppl ZIP fixes, and native library support for Linux/macOS.",
-      "highlights": [],
+      "id": "youtube:3_outVP_81c",
+      "source": "youtube",
+      "title": "Updating PS5 Jailbreak & Improving Stability",
+      "link": "https://www.youtube.com/watch?v=3_outVP_81c",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-06-27T16:11:31+00:00",
+      "summary": "This guide covers how to update your Auto Loader from version 0.8 to the stable release v0.9, along with several methods to significantly improve jailbreak stability and prevent crashes.",
+      "highlights": [
+        "Stability Tip: Disabling network connection before running the jailbreak lowers the master number (e.g., 34 to 31), inc…",
+        "Updating v0.8 to v0.9: Use the `y2jb_update.zip` file placed on a FAT32/exFAT formatted USB drive.",
+        "Advanced Update Fix: For firmwares above 10.01, extract the `PS5 autoloader` folder from an older version to ensure v0.…",
+        "Crash Prevention: Add a delay (e.g., `10`) to payloads before loading them to improve stability when running the YouTub…",
+        "Manual Update: If using a different jailbreak version, FTP is the most reliable method for manual updates."
+      ],
       "category": "Tools",
       "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1um9fjb",
-      "source": "reddit",
-      "title": "Restore Ps5 Saves after JB",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1um9fjb/restore_ps5_saves_after_jb/",
-      "author": "u/Callintz96",
-      "timestamp": "2026-07-03T09:13:36+00:00",
-      "summary": "Discussion regarding methods to extract and restore PS5 game saves before and after jailbreaking a Fat model (11.60) while patching the BD reader.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
+      "thumbnail": "https://i.ytimg.com/vi/3_outVP_81c/hqdefault.jpg"
     }
   ]
 }
