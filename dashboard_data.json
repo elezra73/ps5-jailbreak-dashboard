@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-11 05:42 Israel Time",
-  "ai_overview": "Kstuff has released version 1.08, introducing significant stability improvements and addressing issues related to corrupt game saves. The underlying Linux system has been updated, providing enhanced firmware compatibility and adding features such as ShadowMount.",
+  "last_updated": "2026-07-12 05:49 Israel Time",
+  "ai_overview": "Kstuff has released version 1.08, featuring significant updates including enhanced Linux support and the addition of ShadowMount functionality. Recent developments also focus heavily on improving overall jailbreak stability and streamlining the updating process for users.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1utdbr4",
+      "source": "reddit",
+      "title": "Just setup my ESP32 S3 UMTX Payload - Questions",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1utdbr4/just_setup_my_esp32_s3_umtx_payload_questions/",
+      "author": "u/the_wildelk",
+      "timestamp": "2026-07-11T07:24:57+00:00",
+      "summary": "Technical setup questions regarding ESP32 S3 UMTX payloads for PS5 FW4.50, including hardware connection details, auto-loading, and disconnection procedures.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1ut1822",
       "source": "reddit",
@@ -371,57 +384,19 @@
       "thumbnail": "https://i.ytimg.com/vi/pvQQA4tJiHQ/hqdefault.jpg"
     },
     {
-      "id": "reddit:1unp2gk",
-      "source": "reddit",
-      "title": "Another payload injector 🥱, but you might like this one.",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1unp2gk/another_payload_injector_but_you_might_like_this/",
-      "author": "u/blvrf",
-      "timestamp": "2026-07-05T01:05:36+00:00",
-      "summary": "Blurfer v2.0 payload injector allows manual placement and custom port setting per payload, defaulting to 9021.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1unhc93",
-      "source": "reddit",
-      "title": "The real state of Y2JB on 13.20",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1unhc93/the_real_state_of_y2jb_on_1320/",
-      "author": "u/Thick_Cheek_8791",
-      "timestamp": "2026-07-04T19:09:46+00:00",
-      "summary": "Discussion regarding the current viability of the Y2JB exploit on PS5 firmware 13.20, noting conflicting reports and differing compatibility claims across various repositories.",
-      "highlights": [],
-      "category": "News",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1un5s3o",
-      "source": "reddit",
-      "title": "Best version for 7.61",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1un5s3o/best_version_for_761/",
-      "author": "u/MeringueSerious",
-      "timestamp": "2026-07-04T10:37:51+00:00",
-      "summary": "Seeking the best BDJB ISO version for PS5 firmware 7.61, ideally one that auto-loads KRNL/stuff.",
-      "highlights": [],
-      "category": "FW Updates",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
       "id": "youtube:lAAQJOywD-8",
       "source": "youtube",
       "title": "PS5 Jailbreak News: Kstuff 1.08, Linux Updated with New firmware support, ShadowMount & More!",
       "link": "https://www.youtube.com/watch?v=lAAQJOywD-8",
       "author": "MODDED WARFARE",
       "timestamp": "2026-06-30T20:09:09+00:00",
-      "summary": "Kstuff Light v1.08 has been released, fixing performance issues and allowing it to run during game loads with minimal impact. ShadowMount Plus v1.6 beta 16 adds backport support, and Linux now supports firmware up to 7.61.",
+      "summary": "Kstuff Light v1.08 has been released, fixing major performance issues and allowing games to load much faster without requiring Kstuff to be toggled off. ShadowMount Plus also received a new feature allowing easy backports.",
       "highlights": [
-        "Kstuff Light v1.08 fixes previous performance impacts, allowing it to run during game loading with minimal slowdown.",
-        "ShadowMount Plus v1.6 beta 16 adds a feature to restore occupied mount points and supports adding backports/modules wit…",
-        "Linux support is now available for firmware up to 7.61.",
-        "Kstuff v1.08 testing shows significant load time reductions compared to previous versions (e.g., 40s down to 20s)."
+        "Kstuff Light v1.08 addresses performance impacts and frame rate stutters present in previous versions like v1.07.",
+        "Testing showed v1.08 drastically reduces load times compared to older versions (e.g., 20s vs 40+s).",
+        "ShadowMount Plus v1.6 beta 16 adds a new feature to restore occupied mount points via Fake Lib 2 for backports.",
+        "Users can disable automatic Kstuff pausing in ShadowMount Plus by setting 'kstuff game auto toggle = 0' in the config.i…",
+        "Linux builds now include support for firmware up to 7.61."
       ],
       "category": "Tools",
       "score": null,
@@ -434,13 +409,13 @@
       "link": "https://www.youtube.com/watch?v=3_outVP_81c",
       "author": "MODDED WARFARE",
       "timestamp": "2026-06-27T16:11:31+00:00",
-      "summary": "This guide covers how to update your Auto Loader from version 0.8 to the stable release v0.9, along with several methods to significantly improve jailbreak stability and prevent crashes.",
+      "summary": "This tutorial details how to update the YouTube jailbreak auto loader from version 0.8 to the stable release v0.9 and provides several advanced techniques to improve stability during use.",
       "highlights": [
-        "Stability Tip: Disabling network connection before running the jailbreak lowers the master number (e.g., 34 to 31), inc…",
-        "Updating v0.8 to v0.9: Use the `y2jb_update.zip` file placed on a FAT32/exFAT formatted USB drive.",
-        "Advanced Update Fix: For firmwares above 10.01, extract the `PS5 autoloader` folder from an older version to ensure v0.…",
-        "Crash Prevention: Add a delay (e.g., `10`) to payloads before loading them to improve stability when running the YouTub…",
-        "Manual Update: If using a different jailbreak version, FTP is the most reliable method for manual updates."
+        "Stability can be improved by disabling network settings before running the jailbreak, lowering the master number from 3…",
+        "The Auto Loader v0.8 can be updated to the stable release v0.9 using the y2jb_update.zip file.",
+        "Manual updates are possible by placing the update zip in the root of a FAT32 or exFAT formatted USB drive.",
+        "Adding a delay to payloads (e.g., !1000) can prevent crashes when running the YouTube jailbreak.",
+        "For completely different versions, FTP is recommended as the most reliable method for updating."
       ],
       "category": "Tools",
       "score": null,
