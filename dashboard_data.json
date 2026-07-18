@@ -1,8 +1,86 @@
 {
-  "last_updated": "2026-07-17 05:00 Israel Time",
-  "ai_overview": "3 new update(s) today across: Apps, Games, News.",
+  "last_updated": "2026-07-18 05:00 Israel Time",
+  "ai_overview": "6 new update(s) today across: Games, News, Tools.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1uz9pk9",
+      "source": "reddit",
+      "title": "The PS5 bounty can be claimed even without releasing anything to the public. I was excited and donated but now I worry the thefl0w or others will claim it and still be Sony's good pets and release a year later (or never)",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uz9pk9/the_ps5_bounty_can_be_claimed_even_without/",
+      "author": "u/PalamariVarkari",
+      "timestamp": "2026-07-17T19:31:43+00:00",
+      "summary": "submitted by /u/PalamariVarkari [link] [comments]",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uz955g",
+      "source": "reddit",
+      "title": "Attempting BDJB, always getting \"Unsupported Disc\" when inserting burnt BD",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uz955g/attempting_bdjb_always_getting_unsupported_disc/",
+      "author": "u/ThanosFortniteDance",
+      "timestamp": "2026-07-17T19:11:00+00:00",
+      "summary": "Title. I'm using a launch PS5 on FW 10.20, it was my understanding that I should be able to use Y2JB to get the console to a jailbroken state so I can unpatch the BD drive and use that to load the JB…",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uz1t1h",
+      "source": "reddit",
+      "title": "Adding payloads to esp32 WebKit",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uz1t1h/adding_payloads_to_esp32_webkit/",
+      "author": "u/Big-Bullfrog-9802",
+      "timestamp": "2026-07-17T14:45:37+00:00",
+      "summary": "I’ve been struggling to setup my esp32s3 offline WebKit for my 5.50 ps5 slim. I’m using vladimir-cucu/esp-ps5-exploit-server method. I can successfully jailbreak using this method, but when I try to…",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uz0i81",
+      "source": "reddit",
+      "title": "PS4 Games shut off PS5",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uz0i81/ps4_games_shut_off_ps5/",
+      "author": "u/imanapostrophe",
+      "timestamp": "2026-07-17T13:56:59+00:00",
+      "summary": "For some reason I was just setting up patch manager on my PS5, I’m on 11.20 running kstuff lite v1.09, and every PS4 game says (please wait…) on boot and then my console just shuts off. Haven’t enabl…",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uyueoo",
+      "source": "reddit",
+      "title": "itsPLK PS5 BD-JB Autoloader v1.4.1 vs. Viktorious All-In-One BDJB v28 iso",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uyueoo/itsplk_ps5_bdjb_autoloader_v141_vs_viktorious/",
+      "author": "u/JunkTrunkcvd",
+      "timestamp": "2026-07-17T09:05:33+00:00",
+      "summary": "I am currently using itsPLK's PS5 BD-JB Autoloader v1.4.1 available at https://github.com/itsPLK/ps5-bdjb-autoloader/releases Recently, Viktorious has released All-In-One BDJB v28 iso available at ht…",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "youtube:mmQFXsVDZoE",
+      "source": "youtube",
+      "title": "How to use Cheats, Trainers & Patches on your Jailbroken PS5",
+      "link": "https://www.youtube.com/watch?v=mmQFXsVDZoE",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-07-17T08:00:13+00:00",
+      "summary": "Hey, how's it going, guys? Welcome back to another PS5 tutorial. Back with another episode in the beginner series. In this one, we're going to be taking a look at how you can apply cheats and patches to your PS4 and PS5 games. So, cheats a…",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/mmQFXsVDZoE/hqdefault.jpg"
+    },
     {
       "id": "reddit:1uy8ktz",
       "source": "reddit",
@@ -189,32 +267,6 @@
       "category": "Tools",
       "score": null,
       "thumbnail": ""
-    },
-    {
-      "id": "reddit:1ut1822",
-      "source": "reddit",
-      "title": "Fixing corrupt game saves",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1ut1822/fixing_corrupt_game_saves/",
-      "author": "u/Public_Necessary_162",
-      "timestamp": "2026-07-10T21:45:29+00:00",
-      "summary": "Hey, so I made a mistake...I updated my user account id to match my PSN account via elf arsenal so I could remote play and transfer PS4 saves over...but in doing so, it corrupted all the saves I HAD…",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "youtube:lAAQJOywD-8",
-      "source": "youtube",
-      "title": "PS5 Jailbreak News: Kstuff 1.08, Linux Updated with New firmware support, ShadowMount & More!",
-      "link": "https://www.youtube.com/watch?v=lAAQJOywD-8",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-06-30T20:09:09+00:00",
-      "summary": "Yeah, how's it going guys? Welcome back to another PS5 jailbreak update. So, we have a few topics to dive into here in this video starting with the new build of kstuff light. So, kstuff light version 1.08 has been released by Echo Stretch…",
-      "highlights": [],
-      "category": "Games",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/lAAQJOywD-8/hqdefault.jpg"
     }
   ]
 }
