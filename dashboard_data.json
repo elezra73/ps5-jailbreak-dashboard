@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-07-18 05:00 Israel Time",
-  "ai_overview": "6 new update(s) today across: Games, News, Tools.",
+  "last_updated": "2026-07-19 05:00 Israel Time",
+  "ai_overview": "4 new update(s) today across: Apps, Games, Tools.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1v097h8",
+      "source": "reddit",
+      "title": "Whoever suggested killing all active processes in payload manager BEFORE REST MODE…THANK YOU",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v097h8/whoever_suggested_killing_all_active_processes_in/",
+      "author": "u/Going_through_it_",
+      "timestamp": "2026-07-18T22:23:39+00:00",
+      "summary": "Haven’t had to Re-JB in like two weeks and all games have launched fine after waking up. submitted by /u/Going_through_it_ [link] [comments]",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1v05rdx",
+      "source": "reddit",
+      "title": "Thank you community !",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v05rdx/thank_you_community/",
+      "author": "u/superbizho",
+      "timestamp": "2026-07-18T19:59:50+00:00",
+      "summary": "I just unsealed 2 years old ps5 digital edition running 9.0 firmware! and have to say a huge thanks for all the input here! I've managed to run all those games successfully with 2tb m2 ssd connected…",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1v00b47",
+      "source": "reddit",
+      "title": "Crash After Enable Kstuff 1.07",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v00b47/crash_after_enable_kstuff_107/",
+      "author": "u/Lose-yourself777",
+      "timestamp": "2026-07-18T16:26:04+00:00",
+      "summary": "guys i have ps5 12.70 (Fw) after i wait 50 minutes and go to payload manager to enable kstuff lite (1.07) the console close automatic that's not always happen maybe it happens to me about 2 times wit…",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1uzzs3i",
+      "source": "reddit",
+      "title": "Game cannot be launched.",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uzzs3i/game_cannot_be_launched/",
+      "author": "u/Then-Maintenance-535",
+      "timestamp": "2026-07-18T16:05:12+00:00",
+      "summary": "I have Fw 10.60 and when I try lunch Saros or Stellar blade it's says game or app cannot be lunched. It worked fine with Silent Hill F. What I'm missing? I tried different kstuff, then with itemflow.…",
+      "highlights": [],
+      "category": "Apps",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1uz9pk9",
       "source": "reddit",
@@ -252,19 +304,6 @@
       "summary": "Inquiry regarding the feasibility and availability of a backport for Starfield (PPSA24884) compatible with firmware 9.20 and kstuff lite 1.08.",
       "highlights": [],
       "category": "Games",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1utdbr4",
-      "source": "reddit",
-      "title": "Just setup my ESP32 S3 UMTX Payload - Questions",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1utdbr4/just_setup_my_esp32_s3_umtx_payload_questions/",
-      "author": "u/the_wildelk",
-      "timestamp": "2026-07-11T07:24:57+00:00",
-      "summary": "Technical setup questions regarding ESP32 S3 UMTX payloads for PS5 FW4.50, including hardware connection details, auto-loading, and disconnection procedures.",
-      "highlights": [],
-      "category": "Tools",
       "score": null,
       "thumbnail": ""
     }
