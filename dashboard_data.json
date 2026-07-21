@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-20 05:02 Israel Time",
-  "ai_overview": "",
+  "last_updated": "2026-07-21 05:00 Israel Time",
+  "ai_overview": "A new release, v0.4.1, of the ps5-payload-manager has been made available. This update provides users with the latest tools necessary for managing and executing payloads on compatible PS5 consoles.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1v1gj0u",
+      "source": "reddit",
+      "title": "Release v0.4.1 · itsPLK/ps5-payload-manager",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v1gj0u/release_v041_itsplkps5payloadmanager/",
+      "author": "u/a1mhtar",
+      "timestamp": "2026-07-20T09:24:20+00:00",
+      "summary": "ps5-payload-manager v0.4.1 released with UX improvements and added translations for Italian, Brazilian Portuguese, and Russian.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1v180lp",
       "source": "reddit",
