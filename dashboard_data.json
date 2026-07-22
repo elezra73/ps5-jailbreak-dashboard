@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-07-21 05:00 Israel Time",
-  "ai_overview": "A new release, v0.4.1, of the ps5-payload-manager has been made available. This update provides users with the latest tools necessary for managing and executing payloads on compatible PS5 consoles.",
+  "last_updated": "2026-07-22 05:03 Israel Time",
+  "ai_overview": "A major development includes new PS5 emulators capable of booting PS5 games on PC. Technical updates include kstuff 13.42 and guides for account activation and remote play setup on a jailbroken console. Note that while emulation is advancing, some users are still encountering crashes when attempting to run specific titles like Bloodborne.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1v2y01s",
+      "source": "reddit",
+      "title": "Factory reset",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v2y01s/factory_reset/",
+      "author": "u/defkorns",
+      "timestamp": "2026-07-21T22:50:39+00:00",
+      "summary": "PS5 entered safe mode after attempting JB (y2jb) on firmware 12.20. The issue was resolved by restoring a recovery firmware submitted by the community.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1v2wbw3",
+      "source": "reddit",
+      "title": "I did all of this to the letter, but when I open Bloodborne the console crashes and turns off.",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v2wbw3/i_did_all_of_this_to_the_letter_but_when_i_open/",
+      "author": "u/tonyw009",
+      "timestamp": "2026-07-21T21:45:40+00:00",
+      "summary": "PS5 user attempting to run Bloodborne reports crashes and console shutdown upon launching the game, despite following setup instructions with firmware 12.20.",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1v1gj0u",
       "source": "reddit",
@@ -238,43 +264,54 @@
       "thumbnail": ""
     },
     {
-      "id": "reddit:1uwf0r8",
-      "source": "reddit",
-      "title": "P2JB Inquire 12.40 Firmware",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uwf0r8/p2jb_inquire_1240_firmware/",
-      "author": "u/Rude-Trash7745",
-      "timestamp": "2026-07-14T17:18:34+00:00",
-      "summary": "Is the wait time for the P2JB ever going be updated to less than 10 minutes? submitted by /u/Rude-Trash7745 [link] [comments]",
+      "id": "youtube:y_8PYMdsOI4",
+      "source": "youtube",
+      "title": "New PS5 Emulators capable of booting PS5 Games on PC!",
+      "link": "https://www.youtube.com/watch?v=y_8PYMdsOI4",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-07-12T08:12:08+00:00",
+      "summary": "Hey, how's it going, guys? Welcome back to another video. So, we already have PlayStation 5 emulation where we're able to boot PS5 games on the PC. And over the past few weeks, we've had some pretty major advancements. We have two active e…",
       "highlights": [],
-      "category": "FW Updates",
+      "category": "Games",
       "score": null,
-      "thumbnail": ""
+      "thumbnail": "https://i.ytimg.com/vi/y_8PYMdsOI4/hqdefault.jpg"
     },
     {
-      "id": "reddit:1uwak82",
-      "source": "reddit",
-      "title": "Tips for updating ps5-y2jb-autoloader from 0.8 to 0.9",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uwak82/tips_for_updating_ps5y2jbautoloader_from_08_to_09/",
-      "author": "u/sissyzhou",
-      "timestamp": "2026-07-14T14:38:30+00:00",
-      "summary": "If you are preparing to update ps5-y2jb-autoloader from version 0.8 to 0.9, in addition to following the official steps of placing y2jb_update.zip into the root directory of your USB drive, it is str…",
-      "highlights": [],
+      "id": "youtube:6qxtF_LzWOY",
+      "source": "youtube",
+      "title": "Jailbreak News: PlayStation Blunders, Switch 2 Userland Exploit, kstuff 13.42, Linux Updates & More!",
+      "link": "https://www.youtube.com/watch?v=6qxtF_LzWOY",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-07-09T08:56:06+00:00",
+      "summary": "Kstuff v13.42 and 1.09 are released, with the latter fixing ASLR issues for cheats on older firmwares. Linux payload now supports PS5 up to firmware 7.40, alongside new pre-built images.",
+      "highlights": [
+        "Kstuff v13.42 released, offering improved system performance and stability.",
+        "Kstuff v1.09 fixes ASLR disable for firmwares 3.0 to 12.70, enabling cheats.",
+        "Linux payload now supports PS5 firmwares up to 7.40, including 6.50 and 7.20.",
+        "Pre-built Linux images for the 7.1.2 kernel are available for direct flashing."
+      ],
       "category": "Tools",
       "score": null,
-      "thumbnail": ""
+      "thumbnail": "https://i.ytimg.com/vi/6qxtF_LzWOY/hqdefault.jpg"
     },
     {
-      "id": "reddit:1uw4kr8",
-      "source": "reddit",
-      "title": "Goodbye elfarsenal and all of Sonic-iso projects...",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uw4kr8/goodbye_elfarsenal_and_all_of_soniciso_projects/",
-      "author": "u/Ilostmydonkey",
-      "timestamp": "2026-07-14T10:15:48+00:00",
-      "summary": "From his discord server.. i will be closing this server in a few days. due to harrasment over a personal project that i cant release due to legal reasons people think its totally ok to belittle me. s…",
-      "highlights": [],
+      "id": "youtube:lywvo3p5_x8",
+      "source": "youtube",
+      "title": "Account Activation & Remote Play Setup on a Jailbroken PS5",
+      "link": "https://www.youtube.com/watch?v=lywvo3p5_x8",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-07-08T09:53:07+00:00",
+      "summary": "This tutorial covers how to activate accounts and establish remote play functionality on a jailbroken PS5. It walks through using Elf Arsenal to enable features like media loading and system updates.",
+      "highlights": [
+        "Account activation is required for features like YouTube jailbreak and PS4 save migration.",
+        "Elf Arsenal payload can be loaded via USB drive and managed from the internal storage.",
+        "Access Alpha Arsenal web panel using the PS5's IPv4 address and port 6969 on another device.",
+        "Detailed guide provided for using PSN login and converters to activate new accounts via Elf Arsenal.",
+        "Review of remote play clients, including the Jackie/Chakai NG application."
+      ],
       "category": "Tools",
       "score": null,
-      "thumbnail": ""
+      "thumbnail": "https://i.ytimg.com/vi/lywvo3p5_x8/hqdefault.jpg"
     }
   ]
 }
