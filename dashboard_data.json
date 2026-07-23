@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-22 05:03 Israel Time",
-  "ai_overview": "A major development includes new PS5 emulators capable of booting PS5 games on PC. Technical updates include kstuff 13.42 and guides for account activation and remote play setup on a jailbroken console. Note that while emulation is advancing, some users are still encountering crashes when attempting to run specific titles like Bloodborne.",
+  "last_updated": "2026-07-23 05:03 Israel Time",
+  "ai_overview": "New PS5 emulators have emerged, capable of booting console games on PC. Additionally, the dashboard features kstuff 13.42 updates and guides for setting up account activation and remote play on a jailbroken console.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1v3izig",
+      "source": "reddit",
+      "title": "DLC entitlement in Avatar Frontiers of Pandora DUPLEX release",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3izig/dlc_entitlement_in_avatar_frontiers_of_pandora/",
+      "author": "u/yanivb380",
+      "timestamp": "2026-07-22T15:12:36+00:00",
+      "summary": "Avatar Frontiers of Pandora DLC entitlement issue: Logs confirm installation and loading of multiple DLC packs, but the game itself does not recognize the purchased content.",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1v2y01s",
       "source": "reddit",
@@ -238,41 +251,21 @@
       "thumbnail": ""
     },
     {
-      "id": "reddit:1uxg2cv",
-      "source": "reddit",
-      "title": "Stupid question: how can I move games from external thumb drives to my ssd. Debug settings says “something went wrong” and doesn’t find anything",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uxg2cv/stupid_question_how_can_i_move_games_from/",
-      "author": "u/Bigpoppasoto",
-      "timestamp": "2026-07-15T19:35:26+00:00",
-      "summary": "FW 12.00 running bdjb and got everything up n running. Recently got a 2 tb ssd for this system so curious how I can move the files or rather WHERE to move the files. submitted by /u/Bigpoppasoto [lin…",
-      "highlights": [],
-      "category": "Games",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1uwwc50",
-      "source": "reddit",
-      "title": "Release ShadowMountPlus 1.7alpha2 · drakmor/ShadowMountPlus",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uwwc50/release_shadowmountplus_17alpha2/",
-      "author": "u/a1mhtar",
-      "timestamp": "2026-07-15T05:13:17+00:00",
-      "summary": "ShadowMountPlus 1.7alpha2 released with lifecycle fixes, safer unmounting, and a new public socket API (/system_tmp/shadowmount-api.sock) for third-party development.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
       "id": "youtube:y_8PYMdsOI4",
       "source": "youtube",
       "title": "New PS5 Emulators capable of booting PS5 Games on PC!",
       "link": "https://www.youtube.com/watch?v=y_8PYMdsOI4",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-12T08:12:08+00:00",
-      "summary": "Hey, how's it going, guys? Welcome back to another video. So, we already have PlayStation 5 emulation where we're able to boot PS5 games on the PC. And over the past few weeks, we've had some pretty major advancements. We have two active e…",
-      "highlights": [],
-      "category": "Games",
+      "summary": "Significant advancements have been made in PS5 emulation on PC. Two active emulators, Sharp EMU and Cat Eye PS5, are capable of booting various PS5 games, though full playability is still limited.",
+      "highlights": [
+        "Sharp EMU and Cat Eye PS5 (KT PS5) are the two active emulators discussed.",
+        "Cat Eye PS5 has supported 20+ bootable games; Sharp EMU also shows progress.",
+        "The emulators are currently Windows-only, with Linux planned for future builds.",
+        "Compatibility database tracks game status (menu boot, in-game, unknown) and required firmware.",
+        "The current successful games are mostly 2D titles, though some limited playability has been achieved."
+      ],
+      "category": "Tools",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/y_8PYMdsOI4/hqdefault.jpg"
     },
@@ -283,12 +276,13 @@
       "link": "https://www.youtube.com/watch?v=6qxtF_LzWOY",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-09T08:56:06+00:00",
-      "summary": "Kstuff v13.42 and 1.09 are released, with the latter fixing ASLR issues for cheats on older firmwares. Linux payload now supports PS5 up to firmware 7.40, alongside new pre-built images.",
+      "summary": "KStuff 13.42 and version 1.09 are available, with the latter fixing ASLR issues for enhanced cheat compatibility. The video also covers new Linux payload support and major industry shifts from PlayStation.",
       "highlights": [
-        "Kstuff v13.42 released, offering improved system performance and stability.",
-        "Kstuff v1.09 fixes ASLR disable for firmwares 3.0 to 12.70, enabling cheats.",
-        "Linux payload now supports PS5 firmwares up to 7.40, including 6.50 and 7.20.",
-        "Pre-built Linux images for the 7.1.2 kernel are available for direct flashing."
+        "KStuff version 13.42 released, providing improved system performance and stability.",
+        "KStuff v1.09 fixes ASLR disablement for 11.x and 12.x firmwares, improving cheat functionality.",
+        "PS5 Linux payload now supports firmware 7.61, 6.50, 7.20, and 7.40.",
+        "Pre-built Linux images for the 7.1.2 kernel are available for flashing via USB storage.",
+        "PlayStation announced physical disc production ends Jan 2028 and digital stores close July 2027."
       ],
       "category": "Tools",
       "score": null,
@@ -301,14 +295,8 @@
       "link": "https://www.youtube.com/watch?v=lywvo3p5_x8",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-08T09:53:07+00:00",
-      "summary": "This tutorial covers how to activate accounts and establish remote play functionality on a jailbroken PS5. It walks through using Elf Arsenal to enable features like media loading and system updates.",
-      "highlights": [
-        "Account activation is required for features like YouTube jailbreak and PS4 save migration.",
-        "Elf Arsenal payload can be loaded via USB drive and managed from the internal storage.",
-        "Access Alpha Arsenal web panel using the PS5's IPv4 address and port 6969 on another device.",
-        "Detailed guide provided for using PSN login and converters to activate new accounts via Elf Arsenal.",
-        "Review of remote play clients, including the Jackie/Chakai NG application."
-      ],
+      "summary": "Hey, how's it going guys? Welcome back to another episode of PS5 jailbreak tutorials. Another video in the beginners series here. So, in this one, we're going to be taking a look at how to get remote play and account activation going on yo…",
+      "highlights": [],
       "category": "Tools",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/lywvo3p5_x8/hqdefault.jpg"
