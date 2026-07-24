@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-07-23 05:03 Israel Time",
-  "ai_overview": "New PS5 emulators have emerged, capable of booting console games on PC. Additionally, the dashboard features kstuff 13.42 updates and guides for setting up account activation and remote play on a jailbroken console.",
+  "last_updated": "2026-07-24 05:04 Israel Time",
+  "ai_overview": "The most significant development is the emergence of new PS5 emulators capable of booting and running PS5 games on PC. Additionally, recent updates include enhanced functionality for account activation and remote play setup on jailbroken consoles. Technical resources like kstuff 13.42 and various backup loaders are also available for users.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1v4wxhu",
+      "source": "reddit",
+      "title": "Running game backup on 7.61",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4wxhu/running_game_backup_on_761/",
+      "author": "u/RuDiiHash",
+      "timestamp": "2026-07-24T01:19:35+00:00",
+      "summary": "User asks if a specific game backup runs on PS5 firmware 7.61.",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1v4dky2",
+      "source": "reddit",
+      "title": "DNS just randomly switched to automatic",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4dky2/dns_just_randomly_switched_to_automatic/",
+      "author": "u/BeingClassic6992",
+      "timestamp": "2026-07-23T13:13:38+00:00",
+      "summary": "A user reports their PS5 DNS settings randomly switched to automatic after extended play, causing connection loss. They are seeking advice on the cause and stable DNS configurations.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1v49qze",
+      "source": "reddit",
+      "title": "Autolaoder Y2JB backup for 12.60",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v49qze/autolaoder_y2jb_backup_for_1260/",
+      "author": "u/handofmaradona",
+      "timestamp": "2026-07-23T10:16:44+00:00",
+      "summary": "User seeks a specific Autolaoder backup file compatible with PS5 firmware 12.60, as newer versions trigger system update prompts.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1v3izig",
       "source": "reddit",
@@ -225,45 +264,19 @@
       "thumbnail": "https://i.ytimg.com/vi/mmQFXsVDZoE/hqdefault.jpg"
     },
     {
-      "id": "reddit:1uy8ktz",
-      "source": "reddit",
-      "title": "One last question(s) before I Dive in today.",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uy8ktz/one_last_questions_before_i_dive_in_today/",
-      "author": "u/darkdreamr",
-      "timestamp": "2026-07-16T16:58:35+00:00",
-      "summary": "ok. i got my bluray burner coming today with verbatim discs. Ive been watching some videos and determined i want to unlock my bluray drive on my ps5 i need to know if my assumption is correct on my p…",
-      "highlights": [],
-      "category": "Apps",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1uy37db",
-      "source": "reddit",
-      "title": "v28 of my all in one BDJB iso is out!!",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uy37db/v28_of_my_all_in_one_bdjb_iso_is_out/",
-      "author": "u/False_Risk_5955",
-      "timestamp": "2026-07-16T13:40:19+00:00",
-      "summary": "v28 of my all in one BDJB iso is out. Check it out! Link: https://github.com/Viktorious-x/ps5-bdjb-modified-ISOs/releases/tag/Modified-ISO23 submitted by /u/False_Risk_5955 [link] [comments]",
-      "highlights": [],
-      "category": "News",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
       "id": "youtube:y_8PYMdsOI4",
       "source": "youtube",
       "title": "New PS5 Emulators capable of booting PS5 Games on PC!",
       "link": "https://www.youtube.com/watch?v=y_8PYMdsOI4",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-12T08:12:08+00:00",
-      "summary": "Significant advancements have been made in PS5 emulation on PC. Two active emulators, Sharp EMU and Cat Eye PS5, are capable of booting various PS5 games, though full playability is still limited.",
+      "summary": "PS5 game emulation continues to advance on PC. Two active emulators, Sharp EMU and Cat Eye PS5, allow users to boot into various titles, though full playability is still limited due to bugs and performance issues.",
       "highlights": [
-        "Sharp EMU and Cat Eye PS5 (KT PS5) are the two active emulators discussed.",
-        "Cat Eye PS5 has supported 20+ bootable games; Sharp EMU also shows progress.",
-        "The emulators are currently Windows-only, with Linux planned for future builds.",
-        "Compatibility database tracks game status (menu boot, in-game, unknown) and required firmware.",
-        "The current successful games are mostly 2D titles, though some limited playability has been achieved."
+        "Sharp EMU and Cat Eye PS5 (KT PS5) are the current active emulators.",
+        "Cat Eye PS5 supports 20+ games booting, while Sharp EMU has two games working.",
+        "The software requires game backups dumped from a jailbroken PS5 console.",
+        "A compatibility database tracks boot status, firmware version needed, and game IDs.",
+        "Currently Windows-only builds are available, primarily targeting Nvidia GPUs."
       ],
       "category": "Tools",
       "score": null,
@@ -276,13 +289,13 @@
       "link": "https://www.youtube.com/watch?v=6qxtF_LzWOY",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-09T08:56:06+00:00",
-      "summary": "KStuff 13.42 and version 1.09 are available, with the latter fixing ASLR issues for enhanced cheat compatibility. The video also covers new Linux payload support and major industry shifts from PlayStation.",
+      "summary": "Sony announced major service changes, including the end of physical disc production in 2028 and PS3 store closures. Jailbreak updates include Kstuff version 1.09 and expanded Linux payload support for PS5 firmwares.",
       "highlights": [
-        "KStuff version 13.42 released, providing improved system performance and stability.",
-        "KStuff v1.09 fixes ASLR disablement for 11.x and 12.x firmwares, improving cheat functionality.",
-        "PS5 Linux payload now supports firmware 7.61, 6.50, 7.20, and 7.40.",
+        "Sony announced physical disc production ends Jan 2028 and PS3/Vita stores close July 2027.",
+        "Kstuff version 1.09 released, fixing ASLR issues for PS4/PS5 cheats on 11.x and 12.x firmwares.",
+        "Linux payload now supports PS5 firmwares including 7.61, 6.50, 7.20, and 7.40.",
         "Pre-built Linux images for the 7.1.2 kernel are available for flashing via USB storage.",
-        "PlayStation announced physical disc production ends Jan 2028 and digital stores close July 2027."
+        "Jailbreaking allows users to create DRM-free copies and apply patches to unlock frame rates up to 60+ FPS."
       ],
       "category": "Tools",
       "score": null,
@@ -295,8 +308,13 @@
       "link": "https://www.youtube.com/watch?v=lywvo3p5_x8",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-08T09:53:07+00:00",
-      "summary": "Hey, how's it going guys? Welcome back to another episode of PS5 jailbreak tutorials. Another video in the beginners series here. So, in this one, we're going to be taking a look at how to get remote play and account activation going on yo…",
-      "highlights": [],
+      "summary": "This tutorial guides users through activating accounts and setting up remote play on a jailbroken PS5. It covers using Elf Arsenal, Alpha Arsenal web panel access, and various remote play clients like Chakai NG.",
+      "highlights": [
+        "Account activation can be performed using Elf Arsenal by inputting a unique account ID.",
+        "Remote play setup is discussed using the official PlayStation app or third-party clients like Chakai NG.",
+        "Alpha Arsenal web panel can be accessed from any device by entering the PS5's IPv4 address.",
+        "Initial setup requires loading Elf Arsenal via a USB drive payload to manage system settings."
+      ],
       "category": "Tools",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/lywvo3p5_x8/hqdefault.jpg"
