@@ -1,8 +1,73 @@
 {
-  "last_updated": "2026-07-25 05:03 Israel Time",
-  "ai_overview": "New PS5 emulators are now available, capable of booting PS5 games on PC. Practical guides have also emerged regarding account activation and remote play setup for jailbroken consoles",
+  "last_updated": "2026-07-26 05:03 Israel Time",
+  "ai_overview": "Activity centers on newly discovered WebKit vulnerabilities, including a CSSFontFace exploit applicable to both PS4 and PS5 hardware. Additionally, there is significant development in the form of new PC emulators capable of booting PS5 games. The dashboard also tracks the implications of the 13.60 update and",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1v6kl8d",
+      "source": "reddit",
+      "title": "PS4/PS5 Jailbreak News: 13.60 Update, PS4/PS5 WebKit Bug, PS4 11.02 WebKit Jailbreak & More!",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v6kl8d/ps4ps5_jailbreak_news_1360_update_ps4ps5_webkit/",
+      "author": "u/Any_Performer3658",
+      "timestamp": "2026-07-25T21:31:57+00:00",
+      "summary": "Aggregated PS4/PS5 jailbreak news, covering the 13.60 update, WebKit bugs, and a specific exploit found for PS4 firmware 11.02.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "youtube:-TSm6yiNOIo",
+      "source": "youtube",
+      "title": "PS4/PS5 Jailbreak News: 13.60 Update, PS4/PS5 WebKit Bug, PS4 11.02 WebKit Jailbreak & More!",
+      "link": "https://www.youtube.com/watch?v=-TSm6yiNOIo",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-07-25T20:26:40+00:00",
+      "summary": "Discusses the 13.60 Update, a WebKit bug affecting PS4/PS5, and the PS4 11.02 WebKit Jailbreak.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/-TSm6yiNOIo/hqdefault.jpg"
+    },
+    {
+      "id": "reddit:1v6imjp",
+      "source": "reddit",
+      "title": "Ps5 13.20 firmware dump",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v6imjp/ps5_1320_firmware_dump/",
+      "author": "u/Far-Lab-51",
+      "timestamp": "2026-07-25T20:12:06+00:00",
+      "summary": "A user is requesting decrypted filesystem dumps for PS5 firmware 13.20 to perform binary diffing against older versions like 12.70.",
+      "highlights": [],
+      "category": "FW Updates",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1v6abwd",
+      "source": "reddit",
+      "title": "WebKit CSSFontFace Exploit for PS4/PS5",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v6abwd/webkit_cssfontface_exploit_for_ps4ps5/",
+      "author": "u/superbizho",
+      "timestamp": "2026-07-25T14:46:58+00:00",
+      "summary": "A new WebKit CSSFontFace exploit is available for PS4 (6.00–11.50) and PS5 (1.00–8.60). It provides arbitrary read/write primitives but requires a separate kernel exploit for jailbreaking.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1v5vnfp",
+      "source": "reddit",
+      "title": "Gezine's Exploit is NOT Patched at 13.60",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v5vnfp/gezines_exploit_is_not_patched_at_1360/",
+      "author": "u/paschenflush",
+      "timestamp": "2026-07-25T02:29:33+00:00",
+      "summary": "https://preview.redd.it/ttrogn3heafh1.png?width=1248&format=png&auto=webp&s=aedd26821eb5b9861e84cb08e8b16319cd2c8764 submitted by /u/paschenflush [link] [comments]",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1v5rh1h",
       "source": "reddit",
@@ -160,71 +225,19 @@
       "thumbnail": ""
     },
     {
-      "id": "reddit:1v097h8",
-      "source": "reddit",
-      "title": "Whoever suggested killing all active processes in payload manager BEFORE REST MODE…THANK YOU",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v097h8/whoever_suggested_killing_all_active_processes_in/",
-      "author": "u/Going_through_it_",
-      "timestamp": "2026-07-18T22:23:39+00:00",
-      "summary": "Haven’t had to Re-JB in like two weeks and all games have launched fine after waking up. submitted by /u/Going_through_it_ [link] [comments]",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1v05rdx",
-      "source": "reddit",
-      "title": "Thank you community !",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v05rdx/thank_you_community/",
-      "author": "u/superbizho",
-      "timestamp": "2026-07-18T19:59:50+00:00",
-      "summary": "I just unsealed 2 years old ps5 digital edition running 9.0 firmware! and have to say a huge thanks for all the input here! I've managed to run all those games successfully with 2tb m2 ssd connected…",
-      "highlights": [],
-      "category": "Games",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1v00b47",
-      "source": "reddit",
-      "title": "Crash After Enable Kstuff 1.07",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v00b47/crash_after_enable_kstuff_107/",
-      "author": "u/Lose-yourself777",
-      "timestamp": "2026-07-18T16:26:04+00:00",
-      "summary": "guys i have ps5 12.70 (Fw) after i wait 50 minutes and go to payload manager to enable kstuff lite (1.07) the console close automatic that's not always happen maybe it happens to me about 2 times wit…",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1uzzs3i",
-      "source": "reddit",
-      "title": "Game cannot be launched.",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1uzzs3i/game_cannot_be_launched/",
-      "author": "u/Then-Maintenance-535",
-      "timestamp": "2026-07-18T16:05:12+00:00",
-      "summary": "I have Fw 10.60 and when I try lunch Saros or Stellar blade it's says game or app cannot be lunched. It worked fine with Silent Hill F. What I'm missing? I tried different kstuff, then with itemflow.…",
-      "highlights": [],
-      "category": "Apps",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
       "id": "youtube:y_8PYMdsOI4",
       "source": "youtube",
       "title": "New PS5 Emulators capable of booting PS5 Games on PC!",
       "link": "https://www.youtube.com/watch?v=y_8PYMdsOI4",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-12T08:12:08+00:00",
-      "summary": "PS5 emulation has seen major advancements with Sharp EMU and Cat Eye PS5. While not fully playable, these emulators allow some games to boot on PC, with compatibility databases tracking their status.",
+      "summary": "PS5 emulation continues to advance on PC with Sharp EMU and Cat Eye PS5. While full playability is rare, both emulators can boot several titles, including successful runs of Alex Kidd in Miracle World.",
       "highlights": [
-        "Sharp EMU and Cat Eye PS5 (KT PS5) are the two active emulators, with version 0.0.3 recently released.",
-        "Cat Eye PS5 currently supports over 20 games that can be booted to some degree.",
-        "The compatibility database tracks game status: unknown, main menu boot, or in-game execution.",
-        "Successfully tested 'Alex Kidd in Miracle World,' completing a full level, though performance was laggy.",
-        "The current setup is Windows-only and primarily targets Nvidia GPUs for optimal performance."
+        "Sharp EMU and Cat Eye PS5 (KT PS5) are active emulators, with v0.0.3 builds recently released.",
+        "Cat Eye PS5 supports 20+ bootable games, while Sharp EMU has two titles considered working.",
+        "Successful testing includes running Alex Kidd in Miracle World, though performance varies (lag/crackly audio).",
+        "The software is currently Windows-only, though Linux support is planned.",
+        "Emulation primarily targets Nvidia GPUs for optimal performance."
       ],
       "category": "Tools",
       "score": null,
@@ -237,29 +250,16 @@
       "link": "https://www.youtube.com/watch?v=6qxtF_LzWOY",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-09T08:56:06+00:00",
-      "summary": "Hey, how's it going, guys? Welcome back to another PS5 jailbreak news update. We do have a few topics to get into here with jailbreaking the PS5. But, before we get into that, there has also been a lot of news outside of the jailbreaking s…",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/6qxtF_LzWOY/hqdefault.jpg"
-    },
-    {
-      "id": "youtube:lywvo3p5_x8",
-      "source": "youtube",
-      "title": "Account Activation & Remote Play Setup on a Jailbroken PS5",
-      "link": "https://www.youtube.com/watch?v=lywvo3p5_x8",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-07-08T09:53:07+00:00",
-      "summary": "This guide details how to activate new accounts and enable remote play functionality on a jailbroken PS5. It covers using Elf Arsenal, Alpha Arsenal web panels, and various third-party clients to achieve full system access.",
+      "summary": "kstuff 1.09 has been released, fixing ASLR issues for PS4 and PS5 cheats, while the Linux payload gains support for newer firmwares. The video also discusses Sony's major shifts regarding physical media and digital storefront closures.",
       "highlights": [
-        "Use Elf Arsenal payload via USB drive to manage and activate accounts on the PS5.",
-        "Access Alpha Arsenal web panel by entering the PS5's IPv4 address followed by :6969 on another device.",
-        "Account activation requires rebooting the console after changes are made in Elf Arsenal.",
-        "Remote Play can be set up using official PlayStation apps or third-party clients like Jackie/Chakai NG."
+        "K Stuff version 1.09 released, fixing ASLR disablement for PS4/PS5 games (firmwares 3.0 to 12.70).",
+        "Linux payload now supports PS5 firmwares including 6.50, 7.20, and 7.40.",
+        "PS5s on firmware 7.61 and below can run Linux distros like Steam OS or Batocera.",
+        "Sony announced physical disc production ends Jan 2028 and PS3/Vita stores close July 2027."
       ],
       "category": "Tools",
       "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/lywvo3p5_x8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/6qxtF_LzWOY/hqdefault.jpg"
     }
   ]
 }
