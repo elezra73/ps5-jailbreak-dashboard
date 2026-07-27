@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-07-26 05:03 Israel Time",
-  "ai_overview": "Activity centers on newly discovered WebKit vulnerabilities, including a CSSFontFace exploit applicable to both PS4 and PS5 hardware. Additionally, there is significant development in the form of new PC emulators capable of booting PS5 games. The dashboard also tracks the implications of the 13.60 update and",
+  "last_updated": "2026-07-27 05:02 Israel Time",
+  "ai_overview": "New PS5 emulators have been released, offering the capability to boot PS5 games on PC. Additionally, community tools are advancing with a new WebKit jailbreak for the PS4 up to firmware 11.02, alongside a useful PKG to FFPFSC converter.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1v7gl2t",
+      "source": "reddit",
+      "title": "PS4 PKG → FFPFSC converter released",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v7gl2t/ps4_pkg_ffpfsc_converter_released/",
+      "author": "u/superbizho",
+      "timestamp": "2026-07-26T21:23:24+00:00",
+      "summary": "A new open-source utility converts PS4 FPKGs into the compressed .ffpfsc image format, facilitating workflows with newer PS5 tooling like ShadowMountPlus.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "youtube:qQs41Nho3YI",
+      "source": "youtube",
+      "title": "Jailbreak the PS4 with the New WebKit Jailbreak up to 11.02",
+      "link": "https://www.youtube.com/watch?v=qQs41Nho3YI",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-07-26T21:04:56+00:00",
+      "summary": "Hey, how's it going guys? Welcome back to another PS4 jailbreak tutorial this time. So, in this video I'm going to be showing you how you can jailbreak the PS4 using the new WebKit exploit chain that has come out recently that allows you t…",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/qQs41Nho3YI/hqdefault.jpg"
+    },
     {
       "id": "reddit:1v6kl8d",
       "source": "reddit",
@@ -186,80 +212,22 @@
       "thumbnail": ""
     },
     {
-      "id": "reddit:1v180lp",
-      "source": "reddit",
-      "title": "PS4/PS5 Jailbreak News: New Celsius Kernel Bug, 27K Bug Bounty, PS5 Emulator Progress & More! -- MODDED WARFARE",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v180lp/ps4ps5_jailbreak_news_new_celsius_kernel_bug_27k/",
-      "author": "u/Sudden-Ad-4385",
-      "timestamp": "2026-07-20T01:39:52+00:00",
-      "summary": "submitted by /u/Sudden-Ad-4385 [link] [comments]",
-      "highlights": [],
-      "category": "Games",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "youtube:-OlBkDy-Qj0",
-      "source": "youtube",
-      "title": "PS4/PS5 Jailbreak News: New Celsius Kernel Bug, 27K Bug Bounty, PS5 Emulator Progress & More!",
-      "link": "https://www.youtube.com/watch?v=-OlBkDy-Qj0",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-07-19T22:27:09+00:00",
-      "summary": "PS4/PS5 Jailbreak News: New Celsius Kernel Bug, 27K Bug Bounty, PS5 Emulator Progress & More!",
-      "highlights": [],
-      "category": "Games",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/-OlBkDy-Qj0/hqdefault.jpg"
-    },
-    {
-      "id": "reddit:1v0mgw4",
-      "source": "reddit",
-      "title": "No internet connection despite nanodns",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v0mgw4/no_internet_connection_despite_nanodns/",
-      "author": "u/SpaceJump666",
-      "timestamp": "2026-07-19T09:56:28+00:00",
-      "summary": "I have a PS5 Phat Disc Edition on 10.4. I'm using BDJB after unpatching the BD drive. Since lately applications such as Elf Arsenal and Pegasus cannot connect to the internet. The Payload Manager rem…",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
       "id": "youtube:y_8PYMdsOI4",
       "source": "youtube",
       "title": "New PS5 Emulators capable of booting PS5 Games on PC!",
       "link": "https://www.youtube.com/watch?v=y_8PYMdsOI4",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-12T08:12:08+00:00",
-      "summary": "PS5 emulation continues to advance on PC with Sharp EMU and Cat Eye PS5. While full playability is rare, both emulators can boot several titles, including successful runs of Alex Kidd in Miracle World.",
+      "summary": "PS5 emulation has seen major advancements on PC with Sharp EMU and Cat Eye PS5. Both emulators can boot into games, though full playability is still limited due to graphical bugs and crashes.",
       "highlights": [
-        "Sharp EMU and Cat Eye PS5 (KT PS5) are active emulators, with v0.0.3 builds recently released.",
-        "Cat Eye PS5 supports 20+ bootable games, while Sharp EMU has two titles considered working.",
-        "Successful testing includes running Alex Kidd in Miracle World, though performance varies (lag/crackly audio).",
-        "The software is currently Windows-only, though Linux support is planned.",
-        "Emulation primarily targets Nvidia GPUs for optimal performance."
+        "Sharp EMU and Cat Eye PS5 are active emulators; Cat Eye supports 20+ bootable games.",
+        "The latest builds (e.g., v0.0.3) are available, currently running only on Windows.",
+        "A compatibility database tracks game status (menu boot, loading screen, or in-game).",
+        "The emulators primarily target Nvidia GPUs; firmware version tracking is now included."
       ],
       "category": "Tools",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/y_8PYMdsOI4/hqdefault.jpg"
-    },
-    {
-      "id": "youtube:6qxtF_LzWOY",
-      "source": "youtube",
-      "title": "Jailbreak News: PlayStation Blunders, Switch 2 Userland Exploit, kstuff 13.42, Linux Updates & More!",
-      "link": "https://www.youtube.com/watch?v=6qxtF_LzWOY",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-07-09T08:56:06+00:00",
-      "summary": "kstuff 1.09 has been released, fixing ASLR issues for PS4 and PS5 cheats, while the Linux payload gains support for newer firmwares. The video also discusses Sony's major shifts regarding physical media and digital storefront closures.",
-      "highlights": [
-        "K Stuff version 1.09 released, fixing ASLR disablement for PS4/PS5 games (firmwares 3.0 to 12.70).",
-        "Linux payload now supports PS5 firmwares including 6.50, 7.20, and 7.40.",
-        "PS5s on firmware 7.61 and below can run Linux distros like Steam OS or Batocera.",
-        "Sony announced physical disc production ends Jan 2028 and PS3/Vita stores close July 2027."
-      ],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/6qxtF_LzWOY/hqdefault.jpg"
     }
   ]
 }
