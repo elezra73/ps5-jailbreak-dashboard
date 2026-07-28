@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-07-27 05:02 Israel Time",
-  "ai_overview": "New PS5 emulators have been released, offering the capability to boot PS5 games on PC. Additionally, community tools are advancing with a new WebKit jailbreak for the PS4 up to firmware 11.02, alongside a useful PKG to FFPFSC converter.",
+  "last_updated": "2026-07-28 05:02 Israel Time",
+  "ai_overview": "New PS5 emulators have been released, enabling users to boot and play PS5 games on PC. Additionally, an update regarding the current jailbreak status has been posted, alongside stability tips for PS5 firmware version 11.40.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1v8heyr",
+      "source": "reddit",
+      "title": "UPDATE: Jailbreak Status",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v8heyr/update_jailbreak_status/",
+      "author": "u/a1mhtar",
+      "timestamp": "2026-07-27T23:48:32+00:00",
+      "summary": "Kstuff for firmware 13.60 has been submitted and shared by EchoStretch.",
+      "highlights": [],
+      "category": "FW Updates",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1v8b968",
+      "source": "reddit",
+      "title": "Stability tips (PS5 11.40)",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v8b968/stability_tips_ps5_1140/",
+      "author": "u/MaterialOperation581",
+      "timestamp": "2026-07-27T19:54:22+00:00",
+      "summary": "Discussion regarding stability issues (KPs) while running specific jailbreak payloads (Y2JB, KP) on PS5 firmware 11.40; seeking advice for improved success rate.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1v7gl2t",
       "source": "reddit",
@@ -199,31 +225,18 @@
       "thumbnail": ""
     },
     {
-      "id": "reddit:1v1gj0u",
-      "source": "reddit",
-      "title": "Release v0.4.1 · itsPLK/ps5-payload-manager",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v1gj0u/release_v041_itsplkps5payloadmanager/",
-      "author": "u/a1mhtar",
-      "timestamp": "2026-07-20T09:24:20+00:00",
-      "summary": "ps5-payload-manager v0.4.1 released with UX improvements and added translations for Italian, Brazilian Portuguese, and Russian.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
       "id": "youtube:y_8PYMdsOI4",
       "source": "youtube",
       "title": "New PS5 Emulators capable of booting PS5 Games on PC!",
       "link": "https://www.youtube.com/watch?v=y_8PYMdsOI4",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-12T08:12:08+00:00",
-      "summary": "PS5 emulation has seen major advancements on PC with Sharp EMU and Cat Eye PS5. Both emulators can boot into games, though full playability is still limited due to graphical bugs and crashes.",
+      "summary": "PS5 emulation has seen major advancements, with Sharp EMU and Cat Eye PS5 allowing some games to boot on PC. While many titles can load, none are currently considered fully playable.",
       "highlights": [
-        "Sharp EMU and Cat Eye PS5 are active emulators; Cat Eye supports 20+ bootable games.",
-        "The latest builds (e.g., v0.0.3) are available, currently running only on Windows.",
-        "A compatibility database tracks game status (menu boot, loading screen, or in-game).",
-        "The emulators primarily target Nvidia GPUs; firmware version tracking is now included."
+        "Sharp EMU and Cat Eye PS5 (KT PS5 v0.0.3) are the two active emulators available.",
+        "Cat Eye PS5 supports 20+ bootable games, while Sharp EMU has two titles considered working.",
+        "The current build is Windows only, though Linux support is planned; primarily targets Nvidia GPUs.",
+        "A compatibility database tracks game status, noting if the title boots into menu, loading screen, or in-game."
       ],
       "category": "Tools",
       "score": null,
