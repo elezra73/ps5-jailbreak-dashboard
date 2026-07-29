@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-07-28 05:02 Israel Time",
-  "ai_overview": "New PS5 emulators have been released, enabling users to boot and play PS5 games on PC. Additionally, an update regarding the current jailbreak status has been posted, alongside stability tips for PS5 firmware version 11.40.",
+  "last_updated": "2026-07-29 05:01 Israel Time",
+  "ai_overview": "New PS5 emulators have been developed, enabling the booting of PS5 games on PC platforms. This represents a significant technical advancement in the jailbreak scene. Additionally, guidance has been published regarding potential upgrade paths for users looking to enhance their setup.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1v9gvbh",
+      "source": "reddit",
+      "title": "Advice on upgrade path",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v9gvbh/advice_on_upgrade_path/",
+      "author": "u/ssjgoku2k420",
+      "timestamp": "2026-07-29T00:51:00+00:00",
+      "summary": "User seeks advice on upgrading their jailbreak setup, including payload compatibility, file versioning (ShadowMount), and using newer autoloaders like Y2JB for modern content.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1v8heyr",
       "source": "reddit",
@@ -199,46 +212,15 @@
       "thumbnail": ""
     },
     {
-      "id": "reddit:1v2y01s",
-      "source": "reddit",
-      "title": "Factory reset",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v2y01s/factory_reset/",
-      "author": "u/defkorns",
-      "timestamp": "2026-07-21T22:50:39+00:00",
-      "summary": "PS5 entered safe mode after attempting JB (y2jb) on firmware 12.20. The issue was resolved by restoring a recovery firmware submitted by the community.",
-      "highlights": [],
-      "category": "News",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1v2wbw3",
-      "source": "reddit",
-      "title": "I did all of this to the letter, but when I open Bloodborne the console crashes and turns off.",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v2wbw3/i_did_all_of_this_to_the_letter_but_when_i_open/",
-      "author": "u/tonyw009",
-      "timestamp": "2026-07-21T21:45:40+00:00",
-      "summary": "PS5 user attempting to run Bloodborne reports crashes and console shutdown upon launching the game, despite following setup instructions with firmware 12.20.",
-      "highlights": [],
-      "category": "Games",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
       "id": "youtube:y_8PYMdsOI4",
       "source": "youtube",
       "title": "New PS5 Emulators capable of booting PS5 Games on PC!",
       "link": "https://www.youtube.com/watch?v=y_8PYMdsOI4",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-12T08:12:08+00:00",
-      "summary": "PS5 emulation has seen major advancements, with Sharp EMU and Cat Eye PS5 allowing some games to boot on PC. While many titles can load, none are currently considered fully playable.",
-      "highlights": [
-        "Sharp EMU and Cat Eye PS5 (KT PS5 v0.0.3) are the two active emulators available.",
-        "Cat Eye PS5 supports 20+ bootable games, while Sharp EMU has two titles considered working.",
-        "The current build is Windows only, though Linux support is planned; primarily targets Nvidia GPUs.",
-        "A compatibility database tracks game status, noting if the title boots into menu, loading screen, or in-game."
-      ],
-      "category": "Tools",
+      "summary": "Hey, how's it going, guys? Welcome back to another video. So, we already have PlayStation 5 emulation where we're able to boot PS5 games on the PC. And over the past few weeks, we've had some pretty major advancements. We have two active e…",
+      "highlights": [],
+      "category": "Games",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/y_8PYMdsOI4/hqdefault.jpg"
     }
