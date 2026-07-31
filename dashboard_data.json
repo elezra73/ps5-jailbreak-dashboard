@@ -1,8 +1,39 @@
 {
-  "last_updated": "2026-07-29 05:01 Israel Time",
-  "ai_overview": "New PS5 emulators have been developed, enabling the booting of PS5 games on PC platforms. This represents a significant technical advancement in the jailbreak scene. Additionally, guidance has been published regarding potential upgrade paths for users looking to enhance their setup.",
+  "last_updated": "2026-07-31 05:01 Israel Time",
+  "ai_overview": "Recent developments focus on enhancing the utility and technical monitoring capabilities of jailbroken consoles. Users can now create custom game backups for both PS5 and PS4 systems using the exploit. Furthermore, a new payload has been released that allows users to monitor and display the console's internal temperature.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "youtube:xIS-GrE2QPw",
+      "source": "youtube",
+      "title": "How to Create your Own PS5 & PS4 Game Backups on a Jailbroken PS5",
+      "link": "https://www.youtube.com/watch?v=xIS-GrE2QPw",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-07-30T18:55:41+00:00",
+      "summary": "This tutorial details how to use App Dumper to create digital backups of purchased PS5 and PS4 games, allowing them to be played on a jailbroken console without the original disc.",
+      "highlights": [
+        "Use App Dumper (v1.10/v1.11) and a modified config file to enable game dumping via USB.",
+        "The process involves launching the retail copy and using App Dumper to extract game data while in the main menu.",
+        "PS5 games are typically merged into one dump folder, while PS4 dumps are split between game and patch files.",
+        "Dumped games can be run using Kstuff Lite and Shadow Mount Plus to bypass the need for the original disc."
+      ],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/xIS-GrE2QPw/hqdefault.jpg"
+    },
+    {
+      "id": "reddit:1vatqw7",
+      "source": "reddit",
+      "title": "Payload to display temperature",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vatqw7/payload_to_display_temperature/",
+      "author": "u/Affectionate_Rest152",
+      "timestamp": "2026-07-30T13:31:15+00:00",
+      "summary": "User seeks a stable, standalone payload to display CPU and GPU temperatures on PS5, looking for alternatives to Etahen due to instability.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1v9gvbh",
       "source": "reddit",
@@ -158,71 +189,6 @@
       "category": "FW Updates",
       "score": null,
       "thumbnail": ""
-    },
-    {
-      "id": "reddit:1v4wxhu",
-      "source": "reddit",
-      "title": "Running game backup on 7.61",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4wxhu/running_game_backup_on_761/",
-      "author": "u/RuDiiHash",
-      "timestamp": "2026-07-24T01:19:35+00:00",
-      "summary": "User asks if a specific game backup runs on PS5 firmware 7.61.",
-      "highlights": [],
-      "category": "Games",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1v4dky2",
-      "source": "reddit",
-      "title": "DNS just randomly switched to automatic",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v4dky2/dns_just_randomly_switched_to_automatic/",
-      "author": "u/BeingClassic6992",
-      "timestamp": "2026-07-23T13:13:38+00:00",
-      "summary": "A user reports their PS5 DNS settings randomly switched to automatic after extended play, causing connection loss. They are seeking advice on the cause and stable DNS configurations.",
-      "highlights": [],
-      "category": "News",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1v49qze",
-      "source": "reddit",
-      "title": "Autolaoder Y2JB backup for 12.60",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v49qze/autolaoder_y2jb_backup_for_1260/",
-      "author": "u/handofmaradona",
-      "timestamp": "2026-07-23T10:16:44+00:00",
-      "summary": "User seeks a specific Autolaoder backup file compatible with PS5 firmware 12.60, as newer versions trigger system update prompts.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1v3izig",
-      "source": "reddit",
-      "title": "DLC entitlement in Avatar Frontiers of Pandora DUPLEX release",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v3izig/dlc_entitlement_in_avatar_frontiers_of_pandora/",
-      "author": "u/yanivb380",
-      "timestamp": "2026-07-22T15:12:36+00:00",
-      "summary": "Avatar Frontiers of Pandora DLC entitlement issue: Logs confirm installation and loading of multiple DLC packs, but the game itself does not recognize the purchased content.",
-      "highlights": [],
-      "category": "Games",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "youtube:y_8PYMdsOI4",
-      "source": "youtube",
-      "title": "New PS5 Emulators capable of booting PS5 Games on PC!",
-      "link": "https://www.youtube.com/watch?v=y_8PYMdsOI4",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-07-12T08:12:08+00:00",
-      "summary": "Hey, how's it going, guys? Welcome back to another video. So, we already have PlayStation 5 emulation where we're able to boot PS5 games on the PC. And over the past few weeks, we've had some pretty major advancements. We have two active e…",
-      "highlights": [],
-      "category": "Games",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/y_8PYMdsOI4/hqdefault.jpg"
     }
   ]
 }
