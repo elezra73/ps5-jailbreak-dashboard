@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-07-31 05:01 Israel Time",
-  "ai_overview": "Recent developments focus on enhancing the utility and technical monitoring capabilities of jailbroken consoles. Users can now create custom game backups for both PS5 and PS4 systems using the exploit. Furthermore, a new payload has been released that allows users to monitor and display the console's internal temperature.",
+  "last_updated": "2026-08-01 05:00 Israel Time",
+  "ai_overview": "A new Celsius kernel bug has been identified, enabling jailbreaks on PS5 consoles. A $27K bounty is active for further exploit development, alongside updates regarding PS5 emulator progress. Additionally, a method using Netflix-N-Hack allows users to unlock Y2JB and prevent console resets.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1vbq6fx",
+      "source": "reddit",
+      "title": "Unlock Y2JB with Netflix-N-Hack to avoid resetting the console",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbq6fx/unlock_y2jb_with_netflixnhack_to_avoid_resetting/",
+      "author": "u/Cimet45",
+      "timestamp": "2026-07-31T12:55:34+00:00",
+      "summary": "EDIT: The way I did it: IMPORTANT! Connect to your network and set the proxy settings before installing the Netflix app on your PS5! Use https://github.com/dragancla/Netflix-N-Hack without doing the…",
+      "highlights": [],
+      "category": "FW Updates",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1vbeuw2",
+      "source": "reddit",
+      "title": "Where to sell ps5 fw 10.20 in australia",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbeuw2/where_to_sell_ps5_fw_1020_in_australia/",
+      "author": "u/pete8oes",
+      "timestamp": "2026-07-31T03:11:22+00:00",
+      "summary": "User seeking advice on where and for how much to sell PS5 disc firmware 10.20 (and BDJB discs) in Australia, concerned about safe transaction methods.",
+      "highlights": [],
+      "category": "FW Updates",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "youtube:xIS-GrE2QPw",
       "source": "youtube",
@@ -165,30 +191,30 @@
       "thumbnail": ""
     },
     {
-      "id": "reddit:1v5rh1h",
-      "source": "reddit",
-      "title": "Stay at lower firmwares. It's not far away",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v5rh1h/stay_at_lower_firmwares_its_not_far_away/",
-      "author": "u/Alpha_Centauri204",
-      "timestamp": "2026-07-24T23:21:58+00:00",
-      "summary": "A zero-day exploit was patched in the latest firmware. Users are advised to stay on lower versions and support independent security research.",
+      "id": "youtube:-OlBkDy-Qj0",
+      "source": "youtube",
+      "title": "PS4/PS5 Jailbreak News: New Celsius Kernel Bug, 27K Bug Bounty, PS5 Emulator Progress & More!",
+      "link": "https://www.youtube.com/watch?v=-OlBkDy-Qj0",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-07-19T22:27:09+00:00",
+      "summary": "Updates on PS4/PS5 jailbreak scene, including a new Celsius Kernel bug, a $27k bounty, and PS5 emulator progress.",
       "highlights": [],
-      "category": "FW Updates",
+      "category": "News",
       "score": null,
-      "thumbnail": ""
+      "thumbnail": "https://i.ytimg.com/vi/-OlBkDy-Qj0/hqdefault.jpg"
     },
     {
-      "id": "reddit:1v5o0v9",
-      "source": "reddit",
-      "title": "Gezine Zero day kernel exploit patched at fw 13.60",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v5o0v9/gezine_zero_day_kernel_exploit_patched_at_fw_1360/",
-      "author": "u/Vivid-Log9089",
-      "timestamp": "2026-07-24T21:04:50+00:00",
-      "summary": "Gezine zero-day kernel exploit patched in firmware version 13.60.",
+      "id": "youtube:mmQFXsVDZoE",
+      "source": "youtube",
+      "title": "How to use Cheats, Trainers & Patches on your Jailbroken PS5",
+      "link": "https://www.youtube.com/watch?v=mmQFXsVDZoE",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-07-17T08:00:13+00:00",
+      "summary": "Hey, how's it going, guys? Welcome back to another PS5 tutorial. Back with another episode in the beginner series. In this one, we're going to be taking a look at how you can apply cheats and patches to your PS4 and PS5 games. So, cheats a…",
       "highlights": [],
-      "category": "FW Updates",
+      "category": "Tools",
       "score": null,
-      "thumbnail": ""
+      "thumbnail": "https://i.ytimg.com/vi/mmQFXsVDZoE/hqdefault.jpg"
     }
   ]
 }
