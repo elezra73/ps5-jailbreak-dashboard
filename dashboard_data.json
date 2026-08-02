@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01 05:00 Israel Time",
-  "ai_overview": "A new Celsius kernel bug has been identified, enabling jailbreaks on PS5 consoles. A $27K bounty is active for further exploit development, alongside updates regarding PS5 emulator progress. Additionally, a method using Netflix-N-Hack allows users to unlock Y2JB and prevent console resets.",
+  "last_updated": "2026-08-02 05:01 Israel Time",
+  "ai_overview": "A new Celsius Kernel bug has been identified for PS4 and PS5, with a $27K bounty offered for further vulnerability reports. Alongside this discovery, updates on PS5 emulator progress are available, along with guides detailing how to utilize cheats, trainers, and patches on a jailbroken system.",
   "generated_by": "LM Studio",
   "posts": [
     {
@@ -126,78 +126,13 @@
       "thumbnail": "https://i.ytimg.com/vi/qQs41Nho3YI/hqdefault.jpg"
     },
     {
-      "id": "reddit:1v6kl8d",
-      "source": "reddit",
-      "title": "PS4/PS5 Jailbreak News: 13.60 Update, PS4/PS5 WebKit Bug, PS4 11.02 WebKit Jailbreak & More!",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v6kl8d/ps4ps5_jailbreak_news_1360_update_ps4ps5_webkit/",
-      "author": "u/Any_Performer3658",
-      "timestamp": "2026-07-25T21:31:57+00:00",
-      "summary": "Aggregated PS4/PS5 jailbreak news, covering the 13.60 update, WebKit bugs, and a specific exploit found for PS4 firmware 11.02.",
-      "highlights": [],
-      "category": "News",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "youtube:-TSm6yiNOIo",
-      "source": "youtube",
-      "title": "PS4/PS5 Jailbreak News: 13.60 Update, PS4/PS5 WebKit Bug, PS4 11.02 WebKit Jailbreak & More!",
-      "link": "https://www.youtube.com/watch?v=-TSm6yiNOIo",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-07-25T20:26:40+00:00",
-      "summary": "Discusses the 13.60 Update, a WebKit bug affecting PS4/PS5, and the PS4 11.02 WebKit Jailbreak.",
-      "highlights": [],
-      "category": "News",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/-TSm6yiNOIo/hqdefault.jpg"
-    },
-    {
-      "id": "reddit:1v6imjp",
-      "source": "reddit",
-      "title": "Ps5 13.20 firmware dump",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v6imjp/ps5_1320_firmware_dump/",
-      "author": "u/Far-Lab-51",
-      "timestamp": "2026-07-25T20:12:06+00:00",
-      "summary": "A user is requesting decrypted filesystem dumps for PS5 firmware 13.20 to perform binary diffing against older versions like 12.70.",
-      "highlights": [],
-      "category": "FW Updates",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1v6abwd",
-      "source": "reddit",
-      "title": "WebKit CSSFontFace Exploit for PS4/PS5",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v6abwd/webkit_cssfontface_exploit_for_ps4ps5/",
-      "author": "u/superbizho",
-      "timestamp": "2026-07-25T14:46:58+00:00",
-      "summary": "A new WebKit CSSFontFace exploit is available for PS4 (6.00–11.50) and PS5 (1.00–8.60). It provides arbitrary read/write primitives but requires a separate kernel exploit for jailbreaking.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1v5vnfp",
-      "source": "reddit",
-      "title": "Gezine's Exploit is NOT Patched at 13.60",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v5vnfp/gezines_exploit_is_not_patched_at_1360/",
-      "author": "u/paschenflush",
-      "timestamp": "2026-07-25T02:29:33+00:00",
-      "summary": "https://preview.redd.it/ttrogn3heafh1.png?width=1248&format=png&auto=webp&s=aedd26821eb5b9861e84cb08e8b16319cd2c8764 submitted by /u/paschenflush [link] [comments]",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
       "id": "youtube:-OlBkDy-Qj0",
       "source": "youtube",
       "title": "PS4/PS5 Jailbreak News: New Celsius Kernel Bug, 27K Bug Bounty, PS5 Emulator Progress & More!",
       "link": "https://www.youtube.com/watch?v=-OlBkDy-Qj0",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-19T22:27:09+00:00",
-      "summary": "Updates on PS4/PS5 jailbreak scene, including a new Celsius Kernel bug, a $27k bounty, and PS5 emulator progress.",
+      "summary": "Updates on PS4/PS5 jailbreak scene, including a new Celsius Kernel bug and a $27K bug bounty.",
       "highlights": [],
       "category": "News",
       "score": null,
@@ -210,8 +145,13 @@
       "link": "https://www.youtube.com/watch?v=mmQFXsVDZoE",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-17T08:00:13+00:00",
-      "summary": "Hey, how's it going, guys? Welcome back to another PS5 tutorial. Back with another episode in the beginner series. In this one, we're going to be taking a look at how you can apply cheats and patches to your PS4 and PS5 games. So, cheats a…",
-      "highlights": [],
+      "summary": "This tutorial details how to apply cheats and patches to PS4/PS5 games using specialized tools like Cheat Runner and Illusion's Patch Bundle Loader. It covers the necessary setup, installation methods (FTP/USB), and applying fixes like 60…",
+      "highlights": [
+        "Prerequisites include setting DNS to 127.0.0.1 and loading payloads like Nano DNS.",
+        "KStuff versions 1.09 or 1.6.7 are recommended for compatibility with modern cheats.",
+        "Patches can be installed via FTP using the PS5 IP address or through a network browser interface.",
+        "Demonstrated applying patches for Bloodborne (Title ID CUSA03173), including 60 FPS fixes and Skip Intro patches."
+      ],
       "category": "Tools",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/mmQFXsVDZoE/hqdefault.jpg"
