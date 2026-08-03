@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-02 05:01 Israel Time",
-  "ai_overview": "A new Celsius Kernel bug has been identified for PS4 and PS5, with a $27K bounty offered for further vulnerability reports. Alongside this discovery, updates on PS5 emulator progress are available, along with guides detailing how to utilize cheats, trainers, and patches on a jailbroken system.",
+  "last_updated": "2026-08-03 05:01 Israel Time",
+  "ai_overview": "A new Celsius Kernel bug has been identified, with a $27,000 bounty offered for further exploits. The dashboard also features updates on PS5 emulator progress and guides detailing how to use cheats, trainers, and patches for jailbroken consoles.",
   "generated_by": "LM Studio",
   "posts": [
     {
@@ -100,39 +100,13 @@
       "thumbnail": ""
     },
     {
-      "id": "reddit:1v7gl2t",
-      "source": "reddit",
-      "title": "PS4 PKG → FFPFSC converter released",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v7gl2t/ps4_pkg_ffpfsc_converter_released/",
-      "author": "u/superbizho",
-      "timestamp": "2026-07-26T21:23:24+00:00",
-      "summary": "A new open-source utility converts PS4 FPKGs into the compressed .ffpfsc image format, facilitating workflows with newer PS5 tooling like ShadowMountPlus.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "youtube:qQs41Nho3YI",
-      "source": "youtube",
-      "title": "Jailbreak the PS4 with the New WebKit Jailbreak up to 11.02",
-      "link": "https://www.youtube.com/watch?v=qQs41Nho3YI",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-07-26T21:04:56+00:00",
-      "summary": "Hey, how's it going guys? Welcome back to another PS4 jailbreak tutorial this time. So, in this video I'm going to be showing you how you can jailbreak the PS4 using the new WebKit exploit chain that has come out recently that allows you t…",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/qQs41Nho3YI/hqdefault.jpg"
-    },
-    {
       "id": "youtube:-OlBkDy-Qj0",
       "source": "youtube",
       "title": "PS4/PS5 Jailbreak News: New Celsius Kernel Bug, 27K Bug Bounty, PS5 Emulator Progress & More!",
       "link": "https://www.youtube.com/watch?v=-OlBkDy-Qj0",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-19T22:27:09+00:00",
-      "summary": "Updates on PS4/PS5 jailbreak scene, including a new Celsius Kernel bug and a $27K bug bounty.",
+      "summary": "Updates on PS4/PS5 jailbreak scene, including a new Celsius kernel bug and information about a $27K bounty.",
       "highlights": [],
       "category": "News",
       "score": null,
@@ -145,12 +119,12 @@
       "link": "https://www.youtube.com/watch?v=mmQFXsVDZoE",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-17T08:00:13+00:00",
-      "summary": "This tutorial details how to apply cheats and patches to PS4/PS5 games using specialized tools like Cheat Runner and Illusion's Patch Bundle Loader. It covers the necessary setup, installation methods (FTP/USB), and applying fixes like 60…",
+      "summary": "This tutorial guides users through installing and utilizing Cheat Runner and Illusion's Patch Bundle Loader to apply mods, enable 60 FPS modes, and disable visual effects in PS4/PS5 games.",
       "highlights": [
-        "Prerequisites include setting DNS to 127.0.0.1 and loading payloads like Nano DNS.",
-        "KStuff versions 1.09 or 1.6.7 are recommended for compatibility with modern cheats.",
-        "Patches can be installed via FTP using the PS5 IP address or through a network browser interface.",
-        "Demonstrated applying patches for Bloodborne (Title ID CUSA03173), including 60 FPS fixes and Skip Intro patches."
+        "KStuff version 1.09 is recommended for compatibility, fixing issues with ASLR on older versions.",
+        "Use Cheat Runner (.elf) and Illusion's Patch Bundle Loader (Prospero.elf) to manage mods.",
+        "Patches can be installed via FTP server (IP: 192.168.137.176) or network payloads.",
+        "Demonstrated applying patches to Bloodborne (Title ID CUSA03173) for 60 FPS, Skip Intro, and disabling motion blur."
       ],
       "category": "Tools",
       "score": null,
