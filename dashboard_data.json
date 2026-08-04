@@ -1,8 +1,39 @@
 {
-  "last_updated": "2026-08-03 05:01 Israel Time",
-  "ai_overview": "A new Celsius Kernel bug has been identified, with a $27,000 bounty offered for further exploits. The dashboard also features updates on PS5 emulator progress and guides detailing how to use cheats, trainers, and patches for jailbroken consoles.",
+  "last_updated": "2026-08-04 05:01 Israel Time",
+  "ai_overview": "Development continues with reports of a new Celsius Kernel bug, alongside active efforts toward a 27K bounty. Technical advancements include the Y2JB 13.60 elf loader, enabling FW spoofing and significant progress in homebrew apps and emulators.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "youtube:KLYUCIFl36M",
+      "source": "youtube",
+      "title": "PS5 Jailbreak Updates: FW spoofing, Y2JB 13.60 elf loader, New Emulators, Homebrew apps & More!",
+      "link": "https://www.youtube.com/watch?v=KLYUCIFl36M",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-08-03T21:59:16+00:00",
+      "summary": "This roundup features the stable release of CheatRunner v0.17, along with exciting new developments in PS5 emulation including native PS1 and N64 projects. Technical guides on disc drive pairing and PHU game backups are also covered.",
+      "highlights": [
+        "CheatRunner achieves stable release v0.17, adding a controller hotkey feature for enhanced usability.",
+        "A new PS1 emulator is available as a native PS5 app, requiring Kstuff and Shadow Mount Plus to run.",
+        "The PHU format for PS5 game backups is being tested using a dedicated builder utility from Arc Sama.",
+        "A guide addresses PS5 disc drive pairing issues for Slim models, detailing how firmware affects retention."
+      ],
+      "category": "Apps",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/KLYUCIFl36M/hqdefault.jpg"
+    },
+    {
+      "id": "reddit:1ved174",
+      "source": "reddit",
+      "title": "9.60 etahen vs kstuff+shadow lite",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1ved174/960_etahen_vs_kstuffshadow_lite/",
+      "author": "u/PlatypusOk9847",
+      "timestamp": "2026-08-03T13:11:24+00:00",
+      "summary": "Comparison of 9.60 jailbreak methods (etahen vs kstuff+shadow lite) for stable game running.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1vbq6fx",
       "source": "reddit",
@@ -74,61 +105,17 @@
       "thumbnail": ""
     },
     {
-      "id": "reddit:1v8heyr",
-      "source": "reddit",
-      "title": "UPDATE: Jailbreak Status",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v8heyr/update_jailbreak_status/",
-      "author": "u/a1mhtar",
-      "timestamp": "2026-07-27T23:48:32+00:00",
-      "summary": "Kstuff for firmware 13.60 has been submitted and shared by EchoStretch.",
-      "highlights": [],
-      "category": "FW Updates",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1v8b968",
-      "source": "reddit",
-      "title": "Stability tips (PS5 11.40)",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1v8b968/stability_tips_ps5_1140/",
-      "author": "u/MaterialOperation581",
-      "timestamp": "2026-07-27T19:54:22+00:00",
-      "summary": "Discussion regarding stability issues (KPs) while running specific jailbreak payloads (Y2JB, KP) on PS5 firmware 11.40; seeking advice for improved success rate.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
       "id": "youtube:-OlBkDy-Qj0",
       "source": "youtube",
       "title": "PS4/PS5 Jailbreak News: New Celsius Kernel Bug, 27K Bug Bounty, PS5 Emulator Progress & More!",
       "link": "https://www.youtube.com/watch?v=-OlBkDy-Qj0",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-19T22:27:09+00:00",
-      "summary": "Updates on PS4/PS5 jailbreak scene, including a new Celsius kernel bug and information about a $27K bounty.",
+      "summary": "Updates on PS4/PS5 jailbreak scene, including a new Celsius kernel bug and a $27k bounty.",
       "highlights": [],
       "category": "News",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/-OlBkDy-Qj0/hqdefault.jpg"
-    },
-    {
-      "id": "youtube:mmQFXsVDZoE",
-      "source": "youtube",
-      "title": "How to use Cheats, Trainers & Patches on your Jailbroken PS5",
-      "link": "https://www.youtube.com/watch?v=mmQFXsVDZoE",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-07-17T08:00:13+00:00",
-      "summary": "This tutorial guides users through installing and utilizing Cheat Runner and Illusion's Patch Bundle Loader to apply mods, enable 60 FPS modes, and disable visual effects in PS4/PS5 games.",
-      "highlights": [
-        "KStuff version 1.09 is recommended for compatibility, fixing issues with ASLR on older versions.",
-        "Use Cheat Runner (.elf) and Illusion's Patch Bundle Loader (Prospero.elf) to manage mods.",
-        "Patches can be installed via FTP server (IP: 192.168.137.176) or network payloads.",
-        "Demonstrated applying patches to Bloodborne (Title ID CUSA03173) for 60 FPS, Skip Intro, and disabling motion blur."
-      ],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/mmQFXsVDZoE/hqdefault.jpg"
     }
   ]
 }
