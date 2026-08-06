@@ -1,8 +1,39 @@
 {
-  "last_updated": "2026-08-05 05:03 Israel Time",
-  "ai_overview": "A new WebKit exploit has been successfully confirmed for PS5 firmware up to version 13.60, enabling a Userland jailbreak path for recent consoles. This development is supported by newly released tools, including BD-JB5 and nanoDNS 0.4, expanding the available options for users.",
+  "last_updated": "2026-08-06 05:01 Israel Time",
+  "ai_overview": "3 new update(s) today across: Tools.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1vg7giq",
+      "source": "reddit",
+      "title": "NEW PS5 BD-JB without unpatcher",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vg7giq/new_ps5_bdjb_without_unpatcher/",
+      "author": "u/Genesys_LOR",
+      "timestamp": "2026-08-05T13:30:59+00:00",
+      "summary": "A new PS5 BD-JB method is reported that may not require an unpatcher. Exploits are discussed for various firmware versions, including those up to 13.42.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "youtube:Ec6URi3ujhM",
+      "source": "youtube",
+      "title": "New PS5 BD-JB Released! (Overview & Setup)",
+      "link": "https://www.youtube.com/watch?v=Ec6URi3ujhM",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-08-05T12:58:43+00:00",
+      "summary": "The new BD-JB5 Blu-ray userland exploit is fully released. It allows users to load the Poops kernel exploit up to firmware 12.0 without needing an unpatching payload.",
+      "highlights": [
+        "BD-JB5 is a Blu-ray disc Java sandbox escape supporting remote logging.",
+        "It works up to firmware 13.42, but is most useful for Poops kernel exploits up to FW 12.0.",
+        "The exploit no longer requires an unpatching payload to function up to FW 12.0.",
+        "The exploit can be loaded via ISO or Autoloader for local execution."
+      ],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/Ec6URi3ujhM/hqdefault.jpg"
+    },
     {
       "id": "reddit:1vfsyqq",
       "source": "reddit",
@@ -46,6 +77,19 @@
       "category": "News",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/mWX9uj0mKIQ/hqdefault.jpg"
+    },
+    {
+      "id": "reddit:1vfma68",
+      "source": "reddit",
+      "title": "try whoever is on 11.60 ps5. whoever isn't, don't update or anything. support will be added eventually",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfma68/try_whoever_is_on_1160_ps5_whoever_isnt_dont/",
+      "author": "u/a1mhtar",
+      "timestamp": "2026-08-04T20:38:06+00:00",
+      "summary": "Slopkit compatibility tested on PS5 running 11.60 and consoles with firmware ranging from 9.xx to 13.60.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
     },
     {
       "id": "reddit:1vfm8de",
