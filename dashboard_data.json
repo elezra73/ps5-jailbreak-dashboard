@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-08-06 05:01 Israel Time",
-  "ai_overview": "3 new update(s) today across: Tools.",
+  "last_updated": "2026-08-07 05:01 Israel Time",
+  "ai_overview": "The Easysmx x10 exploit is currently operational on PS5, enabling access to titles such as CFB 26 and Black Myth Wukong. A critical discussion remains regarding the stability of the new BDJB version when running on firmware 12.7, specifically concerning potential console wipes.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1vh8s2a",
+      "source": "reddit",
+      "title": "Easysmx x10 on ps5",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vh8s2a/easysmx_x10_on_ps5/",
+      "author": "u/FardinHaque70",
+      "timestamp": "2026-08-06T16:15:21+00:00",
+      "summary": "Easysmx X10 has been updated with support for wired and 2.4 GHz wireless modes, fixing compatibility issues with GhostControl.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1vh6shg",
+      "source": "reddit",
+      "title": "CFB 26 and Black Myth Wukong help!",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vh6shg/cfb_26_and_black_myth_wukong_help/",
+      "author": "u/Rwdygent",
+      "timestamp": "2026-08-06T15:04:09+00:00",
+      "summary": "User seeking performance advice for CFB 26 backport (laggy on 7.6 PS5) and troubleshooting help for Black Myth Wukong failing to launch after initial screen.",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1vgurce",
+      "source": "reddit",
+      "title": "Will the new BDJB wipe console on 12.7",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vgurce/will_the_new_bdjb_wipe_console_on_127/",
+      "author": "u/sumitx",
+      "timestamp": "2026-08-06T05:03:56+00:00",
+      "summary": "Discussion regarding whether the new BDJB method (BD-JB5) will wipe PS5 data on 12.7, and if it can be used with P2JB to jailbreak without erasing saves/games.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1vg7giq",
       "source": "reddit",
@@ -223,37 +262,6 @@
       "summary": "User seeking advice on where and for how much to sell PS5 disc firmware 10.20 (and BDJB discs) in Australia, concerned about safe transaction methods.",
       "highlights": [],
       "category": "FW Updates",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "youtube:xIS-GrE2QPw",
-      "source": "youtube",
-      "title": "How to Create your Own PS5 & PS4 Game Backups on a Jailbroken PS5",
-      "link": "https://www.youtube.com/watch?v=xIS-GrE2QPw",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-07-30T18:55:41+00:00",
-      "summary": "This tutorial details how to use App Dumper to create digital backups of purchased PS5 and PS4 games, allowing them to be played on a jailbroken console without the original disc.",
-      "highlights": [
-        "Use App Dumper (v1.10/v1.11) and a modified config file to enable game dumping via USB.",
-        "The process involves launching the retail copy and using App Dumper to extract game data while in the main menu.",
-        "PS5 games are typically merged into one dump folder, while PS4 dumps are split between game and patch files.",
-        "Dumped games can be run using Kstuff Lite and Shadow Mount Plus to bypass the need for the original disc."
-      ],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/xIS-GrE2QPw/hqdefault.jpg"
-    },
-    {
-      "id": "reddit:1vatqw7",
-      "source": "reddit",
-      "title": "Payload to display temperature",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vatqw7/payload_to_display_temperature/",
-      "author": "u/Affectionate_Rest152",
-      "timestamp": "2026-07-30T13:31:15+00:00",
-      "summary": "User seeks a stable, standalone payload to display CPU and GPU temperatures on PS5, looking for alternatives to Etahen due to instability.",
-      "highlights": [],
-      "category": "Tools",
       "score": null,
       "thumbnail": ""
     }
