@@ -1,8 +1,26 @@
 {
-  "last_updated": "2026-08-07 05:01 Israel Time",
-  "ai_overview": "The Easysmx x10 exploit is currently operational on PS5, enabling access to titles such as CFB 26 and Black Myth Wukong. A critical discussion remains regarding the stability of the new BDJB version when running on firmware 12.7, specifically concerning potential console wipes.",
+  "last_updated": "2026-08-08 05:02 Israel Time",
+  "ai_overview": "A new version of the Xbox 360 BadUpdate V1.3 has been released, offering significant improvements including instant load times and 100% stability. Additionally, users of a jailbroken PS5 can now utilize the console to create and manage personal backups for both PS5 and PS4 games.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "youtube:UPyOmzZFjYQ",
+      "source": "youtube",
+      "title": "Xbox 360 BadUpdate V1.3 Released with Instant load times and 100% Stability!",
+      "link": "https://www.youtube.com/watch?v=UPyOmzZFjYQ",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-08-07T16:46:11+00:00",
+      "summary": "BadUpdate V1.3 has been released, offering instantaneous loading and 100% stability compared to previous builds. The video provides detailed guides for installation, whether updating from an existing build or starting completely fresh.",
+      "highlights": [
+        "BadUpdate V1.3 is available from Grim Doomer and KMX 360, featuring instant load times and high reliability.",
+        "A clean installation requires System Software 17559, which can be installed via USB.",
+        "Installation guides are provided for updating from previous versions or starting fresh using Bad Builder utility.",
+        "Advanced setups allow users to integrate the BadUpdate launch sequence with the Aurora dashboard via `launch.ini`."
+      ],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/UPyOmzZFjYQ/hqdefault.jpg"
+    },
     {
       "id": "reddit:1vh8s2a",
       "source": "reddit",
@@ -240,30 +258,17 @@
       "thumbnail": ""
     },
     {
-      "id": "reddit:1vbq6fx",
-      "source": "reddit",
-      "title": "Unlock Y2JB with Netflix-N-Hack to avoid resetting the console",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbq6fx/unlock_y2jb_with_netflixnhack_to_avoid_resetting/",
-      "author": "u/Cimet45",
-      "timestamp": "2026-07-31T12:55:34+00:00",
-      "summary": "EDIT: The way I did it: IMPORTANT! Connect to your network and set the proxy settings before installing the Netflix app on your PS5! Use https://github.com/dragancla/Netflix-N-Hack without doing the…",
+      "id": "youtube:xIS-GrE2QPw",
+      "source": "youtube",
+      "title": "How to Create your Own PS5 & PS4 Game Backups on a Jailbroken PS5",
+      "link": "https://www.youtube.com/watch?v=xIS-GrE2QPw",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-07-30T18:55:41+00:00",
+      "summary": "Yeah, how's it going, guys? Welcome back to another PS5 jailbreak tutorial. Another video in the beginners series. So, in this one, we're going to be checking out how you can make your own PlayStation 5 and PlayStation 4 game backups of yo…",
       "highlights": [],
-      "category": "FW Updates",
+      "category": "Tools",
       "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vbeuw2",
-      "source": "reddit",
-      "title": "Where to sell ps5 fw 10.20 in australia",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vbeuw2/where_to_sell_ps5_fw_1020_in_australia/",
-      "author": "u/pete8oes",
-      "timestamp": "2026-07-31T03:11:22+00:00",
-      "summary": "User seeking advice on where and for how much to sell PS5 disc firmware 10.20 (and BDJB discs) in Australia, concerned about safe transaction methods.",
-      "highlights": [],
-      "category": "FW Updates",
-      "score": null,
-      "thumbnail": ""
+      "thumbnail": "https://i.ytimg.com/vi/xIS-GrE2QPw/hqdefault.jpg"
     }
   ]
 }
