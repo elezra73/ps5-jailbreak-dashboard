@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-08-08 05:02 Israel Time",
-  "ai_overview": "A new version of the Xbox 360 BadUpdate V1.3 has been released, offering significant improvements including instant load times and 100% stability. Additionally, users of a jailbroken PS5 can now utilize the console to create and manage personal backups for both PS5 and PS4 games.",
+  "last_updated": "2026-08-09 05:01 Israel Time",
+  "ai_overview": "The latest updates include the release of ProsperoPlayer 1.0, which significantly enhances media playback on PS5 by supporting USB movies, HEVC, and 4K content. Users can also now create custom PS5 and PS4 game backups, coinciding with the release of a new loader version. Note that specific titles like Spider-Man",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1vj4fl6",
+      "source": "reddit",
+      "title": "ProsperoPlayer 1.0 Released — USB Movies, HEVC, 4K, Subs, Music & More on PS5",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vj4fl6/prosperoplayer_10_released_usb_movies_hevc_4k/",
+      "author": "u/CharmingWalk2007",
+      "timestamp": "2026-08-08T19:13:17+00:00",
+      "summary": "ProsperoPlayer 1.0 is a homebrew media player for jailbroken PS5s, supporting USB browsing, H.264/HEVC playback up to 4K, subtitles, and music viewing.",
+      "highlights": [],
+      "category": "Apps",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1visi3c",
+      "source": "reddit",
+      "title": "Release v1.5.0 · itsPLK/ps5-bdjb-autoloader",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1visi3c/release_v150_itsplkps5bdjbautoloader/",
+      "author": "u/a1mhtar",
+      "timestamp": "2026-08-08T10:28:36+00:00",
+      "summary": "ps5-bdjb-autoloader v1.5.0 released with updated userland exploit (BD-JB5 2.0) and bundled Payload Manager v0.5.1.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1virjbs",
+      "source": "reddit",
+      "title": "Spider-Man 2 ex Fat crashes at startup",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1virjbs/spiderman_2_ex_fat_crashes_at_startup/",
+      "author": "u/the_wildelk",
+      "timestamp": "2026-08-08T09:29:47+00:00",
+      "summary": "Spider-Man 2 exFAT crashes during startup on Klite 1.09/Shadowmount+ v1.6 beta 10, though other games launch correctly.",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "youtube:UPyOmzZFjYQ",
       "source": "youtube",
@@ -264,9 +303,14 @@
       "link": "https://www.youtube.com/watch?v=xIS-GrE2QPw",
       "author": "MODDED WARFARE",
       "timestamp": "2026-07-30T18:55:41+00:00",
-      "summary": "Yeah, how's it going, guys? Welcome back to another PS5 jailbreak tutorial. Another video in the beginners series. So, in this one, we're going to be checking out how you can make your own PlayStation 5 and PlayStation 4 game backups of yo…",
-      "highlights": [],
-      "category": "Tools",
+      "summary": "This tutorial guides users through creating digital backups of purchased PS5 and PS4 games using a jailbroken console. This allows the game to run without needing the original disc.",
+      "highlights": [
+        "Use App Dumper (v1.11 for PS5, v1.10 recommended for PS4) to dump retail games.",
+        "The process requires an exFAT formatted USB drive and specific configuration files (.ini).",
+        "PS5 dumps are merged into one folder, while PS4 dumps are split between the game and patch files.",
+        "Dumped games can be loaded using Payload Manager, Kstuff, and Shadow Mount Plus."
+      ],
+      "category": "Games",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/xIS-GrE2QPw/hqdefault.jpg"
     }
