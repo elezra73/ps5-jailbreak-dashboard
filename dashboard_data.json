@@ -1,8 +1,40 @@
 {
-  "last_updated": "2026-08-09 05:01 Israel Time",
-  "ai_overview": "The latest updates include the release of ProsperoPlayer 1.0, which significantly enhances media playback on PS5 by supporting USB movies, HEVC, and 4K content. Users can also now create custom PS5 and PS4 game backups, coinciding with the release of a new loader version. Note that specific titles like Spider-Man",
+  "last_updated": "2026-08-10 05:01 Israel Time",
+  "ai_overview": "2 new update(s) today across: News, Tools.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1vjmjov",
+      "source": "reddit",
+      "title": "MODDED WARFARE: PS5 Jailbreak News: WebKit Jailbreak PoC, BD-JB5 Release, 14.0 Beta PS5 Emulator Progress & More!",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vjmjov/modded_warfare_ps5_jailbreak_news_webkit/",
+      "author": "u/Physical-Sea5499",
+      "timestamp": "2026-08-09T10:35:39+00:00",
+      "summary": "Discussion thread about the WebKit Jailbreak PoC, BD-JB5 release, and progress on a PS5 emulator for 14.0 Beta.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "youtube:WHRbC_jJhBc",
+      "source": "youtube",
+      "title": "PS5 Jailbreak News: WebKit Jailbreak PoC, BD-JB Release, 14.0 Beta Release, Emulator Progress & More",
+      "link": "https://www.youtube.com/watch?v=WHRbC_jJhBc",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-08-09T10:20:02+00:00",
+      "summary": "New WebKit and Blu-ray exploits are available. The WebKit PoC works up to firmware 13.60, while the BD-JB5 allows jailbreaking up to 12.0 without needing to unpatch.",
+      "highlights": [
+        "WebKit exploit PoC available for firmwares 9.0 to 13.60, confirmed working on latest firmware.",
+        "Chaining the WebKit exploit with Poops kernel exploit attempts full jailbreak up to firmware 12.0.",
+        "GAN's BD-JB5 allows jailbreaking up to firmware 13.42/12.0 without unpatching the Blu-ray jailbreak.",
+        "BD jailbreak autoloader v1.5.0 supports up to firmware 12.0 and includes unified autoloader 0.5.1.",
+        "PS5 received a beta release of System Software version 14, which may include patches for the WebKit exploit."
+      ],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/WHRbC_jJhBc/hqdefault.jpg"
+    },
     {
       "id": "reddit:1vj4fl6",
       "source": "reddit",
@@ -295,24 +327,6 @@
       "category": "Tools",
       "score": null,
       "thumbnail": ""
-    },
-    {
-      "id": "youtube:xIS-GrE2QPw",
-      "source": "youtube",
-      "title": "How to Create your Own PS5 & PS4 Game Backups on a Jailbroken PS5",
-      "link": "https://www.youtube.com/watch?v=xIS-GrE2QPw",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-07-30T18:55:41+00:00",
-      "summary": "This tutorial guides users through creating digital backups of purchased PS5 and PS4 games using a jailbroken console. This allows the game to run without needing the original disc.",
-      "highlights": [
-        "Use App Dumper (v1.11 for PS5, v1.10 recommended for PS4) to dump retail games.",
-        "The process requires an exFAT formatted USB drive and specific configuration files (.ini).",
-        "PS5 dumps are merged into one folder, while PS4 dumps are split between the game and patch files.",
-        "Dumped games can be loaded using Payload Manager, Kstuff, and Shadow Mount Plus."
-      ],
-      "category": "Games",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/xIS-GrE2QPw/hqdefault.jpg"
     }
   ]
 }
