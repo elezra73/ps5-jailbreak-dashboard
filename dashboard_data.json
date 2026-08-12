@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-08-11 05:05 Israel Time",
-  "ai_overview": "The WebKit jailbreak exploit is now live, successfully supporting PS5 firmware",
+  "last_updated": "2026-08-12 05:01 Israel Time",
+  "ai_overview": "The dashboard addresses a critical compatibility issue where users are unable to run games after updating to Webkit 11.40. This specific version appears to introduce a blocker preventing proper game execution on the PS5 system. Community inquiries regarding beginner usage are also being tracked.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1vluize",
+      "source": "reddit",
+      "title": "Question from a beginner",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vluize/question_from_a_beginner/",
+      "author": "u/Kensation21",
+      "timestamp": "2026-08-11T21:24:45+00:00",
+      "summary": "Beginner asks if updating to firmware 12.0 is the best jump point for using a new WebKit jailbreak method on an unopened PS5.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1vlq02w",
+      "source": "reddit",
+      "title": "Cant run games after Webkit 11.40",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vlq02w/cant_run_games_after_webkit_1140/",
+      "author": "u/MaterialOperation581",
+      "timestamp": "2026-08-11T18:38:53+00:00",
+      "summary": "Workaround for games failing after Webkit 11.40: Inject payload manager, then load kstuff lite, nanodns, and Shadowmountplus inside.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1vl1dto",
       "source": "reddit",
@@ -309,141 +335,6 @@
       "category": "Tools",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/Ec6URi3ujhM/hqdefault.jpg"
-    },
-    {
-      "id": "reddit:1vfsyqq",
-      "source": "reddit",
-      "title": "Rookie question",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfsyqq/rookie_question/",
-      "author": "u/StanleyQiaobrick",
-      "timestamp": "2026-08-05T01:13:52+00:00",
-      "summary": "User asks if they should always update to the latest Y2JB exploit or stay on their current version, citing backup concerns.",
-      "highlights": [],
-      "category": "FW Updates",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vfshbc",
-      "source": "reddit",
-      "title": "GitHub - Gezine/BD-JB5: BD-JB for PS5",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfshbc/github_gezinebdjb5_bdjb_for_ps5/",
-      "author": "u/a1mhtar",
-      "timestamp": "2026-08-05T00:51:39+00:00",
-      "summary": "BD-JB5 is a Blu-ray Disc Java Sandbox Escape for PS5. It supports remote logging and payload injection up to firmware 13.42, with instructions for enabling it on newer firmwares.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "youtube:mWX9uj0mKIQ",
-      "source": "youtube",
-      "title": "PS4/PS5 Jailbreak News: New WebKit and Blu-Ray Userland exploits revealed up to latest firmware!",
-      "link": "https://www.youtube.com/watch?v=mWX9uj0mKIQ",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-08-04T23:34:15+00:00",
-      "summary": "New userland exploits (WebKit and Blu-Ray) have been revealed for PS4 and PS5. These vulnerabilities could enable web browser jailbreaking and significantly improve the chaining of existing exploits.",
-      "highlights": [
-        "PS4 WebKit CSS fontface exploit found up to firmware 13.52, with UFM42 suggesting a workaround.",
-        "PS5 WebKit Sandbox Escape (Jordi) is tested on 11.60, with potential applicability up to the latest firmware (13.60).",
-        "PS5 Blu-ray Java bug discovered up to firmware 13.42, patched in 13.60.",
-        "These userland exploits could allow web browser triggering of existing jailbreaks, eliminating the need for discs."
-      ],
-      "category": "News",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/mWX9uj0mKIQ/hqdefault.jpg"
-    },
-    {
-      "id": "reddit:1vfma68",
-      "source": "reddit",
-      "title": "try whoever is on 11.60 ps5. whoever isn't, don't update or anything. support will be added eventually",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfma68/try_whoever_is_on_1160_ps5_whoever_isnt_dont/",
-      "author": "u/a1mhtar",
-      "timestamp": "2026-08-04T20:38:06+00:00",
-      "summary": "Slopkit compatibility tested on PS5 running 11.60 and consoles with firmware ranging from 9.xx to 13.60.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vfm8de",
-      "source": "reddit",
-      "title": "Release nanoDNS 0.4 · drakmor/nanoDNS",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vfm8de/release_nanodns_04_drakmornanodns/",
-      "author": "u/a1mhtar",
-      "timestamp": "2026-08-04T20:36:14+00:00",
-      "summary": "nanoDNS 0.4 released with IPv6 support and a Quiet mode for Yandex.DNS fixes.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vflucn",
-      "source": "reddit",
-      "title": "CPU/GPU Temperature measurements on 12.20",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vflucn/cpugpu_temperature_measurements_on_1220/",
-      "author": "u/Cimet45",
-      "timestamp": "2026-08-04T20:21:32+00:00",
-      "summary": "Query regarding temperature measurement methods (CPU/GPU) for Slim PS5 running FW 12.20 due to compatibility issues with existing monitoring tools.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vf769v",
-      "source": "reddit",
-      "title": "Not sure if crazy but Y2JB 1.6 just completed in 10 seconds from a fresh restore",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vf769v/not_sure_if_crazy_but_y2jb_16_just_completed_in/",
-      "author": "u/SpecialistFair652",
-      "timestamp": "2026-08-04T11:03:35+00:00",
-      "summary": "Y2JB 1.6 successfully executed on a PS5 Pro running FW 11.4 in only 10 seconds after fresh restore.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vf6z6k",
-      "source": "reddit",
-      "title": "It has been Confirmed that the New Webkit exploit works on 13.60 as a Userland",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vf6z6k/it_has_been_confirmed_that_the_new_webkit_exploit/",
-      "author": "u/paschenflush",
-      "timestamp": "2026-08-04T10:53:56+00:00",
-      "summary": "New Webkit exploit confirmed to work on 13.60 as a Userland, enabling Poopsploit for FWs up to 12.00 without Blu-ray.",
-      "highlights": [],
-      "category": "FW Updates",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vf67p4",
-      "source": "reddit",
-      "title": "Update: Jailbreak status -Webkit v11.60",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vf67p4/update_jailbreak_status_webkit_v1160/",
-      "author": "u/a1mhtar",
-      "timestamp": "2026-08-04T10:13:23+00:00",
-      "summary": "Webkit sandbox escape achieved for PS5 firmware 11.60, potentially functional up to the latest version.",
-      "highlights": [],
-      "category": "FW Updates",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1veyp8m",
-      "source": "reddit",
-      "title": "PS5 Jailbreak Updates: FW spoofing, Y2JB 13.60 elf loader, New Emulators, Homebrew apps & More! --MODDED WARFARE",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1veyp8m/ps5_jailbreak_updates_fw_spoofing_y2jb_1360_elf/",
-      "author": "u/Sudden-Ad-4385",
-      "timestamp": "2026-08-04T03:17:34+00:00",
-      "summary": "PS5 jailbreak updates available, including FW spoofing, Y2JB 13.60 elf loader, new emulators, and homebrew apps.",
-      "highlights": [],
-      "category": "FW Updates",
-      "score": null,
-      "thumbnail": ""
     }
   ]
 }
