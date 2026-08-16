@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15 05:00 Israel Time",
-  "ai_overview": "PS5 Xplorer is a community-developed tool that allows users to browse and manage the contents of PS5's internal storage via a file explorer interface, enabling access to system folders and user data. As of the latest update, the tool supports basic file operations such as viewing, copying, and renaming files, but does not provide full system-level access or the ability to modify system software. It operates through a custom PS5 firmware exploit and is not officially supported by Sony.",
+  "last_updated": "2026-08-16 05:00 Israel Time",
+  "ai_overview": "A new version of the Xbox 360 BadUpdate, V1.3, has been released, featuring instant load times and reported 100% system stability under tested conditions. This update is currently accessible through unofficial community channels and is not officially supported by Microsoft.",
   "generated_by": "LM Studio",
   "posts": [
     {
@@ -408,45 +408,6 @@
       "category": "Tools",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/WHRbC_jJhBc/hqdefault.jpg"
-    },
-    {
-      "id": "reddit:1vj4fl6",
-      "source": "reddit",
-      "title": "ProsperoPlayer 1.0 Released — USB Movies, HEVC, 4K, Subs, Music & More on PS5",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vj4fl6/prosperoplayer_10_released_usb_movies_hevc_4k/",
-      "author": "u/CharmingWalk2007",
-      "timestamp": "2026-08-08T19:13:17+00:00",
-      "summary": "ProsperoPlayer 1.0 is a homebrew media player for jailbroken PS5s, supporting USB browsing, H.264/HEVC playback up to 4K, subtitles, and music viewing.",
-      "highlights": [],
-      "category": "Apps",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1visi3c",
-      "source": "reddit",
-      "title": "Release v1.5.0 · itsPLK/ps5-bdjb-autoloader",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1visi3c/release_v150_itsplkps5bdjbautoloader/",
-      "author": "u/a1mhtar",
-      "timestamp": "2026-08-08T10:28:36+00:00",
-      "summary": "ps5-bdjb-autoloader v1.5.0 released with updated userland exploit (BD-JB5 2.0) and bundled Payload Manager v0.5.1.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1virjbs",
-      "source": "reddit",
-      "title": "Spider-Man 2 ex Fat crashes at startup",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1virjbs/spiderman_2_ex_fat_crashes_at_startup/",
-      "author": "u/the_wildelk",
-      "timestamp": "2026-08-08T09:29:47+00:00",
-      "summary": "Spider-Man 2 exFAT crashes during startup on Klite 1.09/Shadowmount+ v1.6 beta 10, though other games launch correctly.",
-      "highlights": [],
-      "category": "Games",
-      "score": null,
-      "thumbnail": ""
     }
   ]
 }
