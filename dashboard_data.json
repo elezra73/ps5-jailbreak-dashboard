@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-16 05:00 Israel Time",
-  "ai_overview": "A new version of the Xbox 360 BadUpdate, V1.3, has been released, featuring instant load times and reported 100% system stability under tested conditions. This update is currently accessible through unofficial community channels and is not officially supported by Microsoft.",
+  "last_updated": "2026-08-17 05:00 Israel Time",
+  "ai_overview": "A new version of the Xbox 360 BadUpdate, V1.3, has been released, featuring instant load times and 100% stability under tested conditions. This update is not related to the PlayStation 5 and does not provide any functionality or access to PS5 systems.",
   "generated_by": "LM Studio",
   "posts": [
     {
@@ -376,38 +376,6 @@
       "category": "Apps",
       "score": null,
       "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vjmjov",
-      "source": "reddit",
-      "title": "MODDED WARFARE: PS5 Jailbreak News: WebKit Jailbreak PoC, BD-JB5 Release, 14.0 Beta PS5 Emulator Progress & More!",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vjmjov/modded_warfare_ps5_jailbreak_news_webkit/",
-      "author": "u/Physical-Sea5499",
-      "timestamp": "2026-08-09T10:35:39+00:00",
-      "summary": "Discussion thread about the WebKit Jailbreak PoC, BD-JB5 release, and progress on a PS5 emulator for 14.0 Beta.",
-      "highlights": [],
-      "category": "News",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "youtube:WHRbC_jJhBc",
-      "source": "youtube",
-      "title": "PS5 Jailbreak News: WebKit Jailbreak PoC, BD-JB Release, 14.0 Beta Release, Emulator Progress & More",
-      "link": "https://www.youtube.com/watch?v=WHRbC_jJhBc",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-08-09T10:20:02+00:00",
-      "summary": "New WebKit and Blu-ray exploits are available. The WebKit PoC works up to firmware 13.60, while the BD-JB5 allows jailbreaking up to 12.0 without needing to unpatch.",
-      "highlights": [
-        "WebKit exploit PoC available for firmwares 9.0 to 13.60, confirmed working on latest firmware.",
-        "Chaining the WebKit exploit with Poops kernel exploit attempts full jailbreak up to firmware 12.0.",
-        "GAN's BD-JB5 allows jailbreaking up to firmware 13.42/12.0 without unpatching the Blu-ray jailbreak.",
-        "BD jailbreak autoloader v1.5.0 supports up to firmware 12.0 and includes unified autoloader 0.5.1.",
-        "PS5 received a beta release of System Software version 14, which may include patches for the WebKit exploit."
-      ],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/WHRbC_jJhBc/hqdefault.jpg"
     }
   ]
 }
