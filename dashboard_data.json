@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19 05:02 Israel Time",
-  "ai_overview": "A new WebKit jailbreak has been released, offering support for firmware up to 12.70. Furthermore, etaHEN and Itemzflow have been confirmed functional at firmware 13.60. While exploits are successfully achieved, current",
+  "last_updated": "2026-08-20 05:01 Israel Time",
+  "ai_overview": "A new WebKit jailbreak has been released, offering compatibility with PS5 firmware up to version 12.00. An early setup guide is now available for users wishing to deploy the exploit on supported consoles.",
   "generated_by": "LM Studio",
   "posts": [
     {
@@ -205,100 +205,23 @@
       "thumbnail": ""
     },
     {
-      "id": "reddit:1vmsl6d",
-      "source": "reddit",
-      "title": "New PS5 WebKit Jailbreak Autoloader Released up to 12.00! (Overview & Setup) --MODDED WARFARE",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vmsl6d/new_ps5_webkit_jailbreak_autoloader_released_up/",
-      "author": "u/Sudden-Ad-4385",
-      "timestamp": "2026-08-12T22:22:39+00:00",
-      "summary": "WebKit Jailbreak Autoloader released for PS5 firmware up to 12.00.",
-      "highlights": [],
-      "category": "FW Updates",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "youtube:ZKNtljwGX84",
+      "id": "youtube:g-1NwaNcq3I",
       "source": "youtube",
-      "title": "New PS5 WebKit Jailbreak Autoloader Released up to 12.00! (Overview & Setup)",
-      "link": "https://www.youtube.com/watch?v=ZKNtljwGX84",
+      "title": "New PS5 WebKit Jailbreak up to 12.00 is Here! (Early Setup Guide)",
+      "link": "https://www.youtube.com/watch?v=g-1NwaNcq3I",
       "author": "MODDED WARFARE",
-      "timestamp": "2026-08-12T21:24:56+00:00",
-      "summary": "A WebKit jailbreak autoloader has been released for firmwares up to 12.0, allowing users to automatically load payloads after the jailbreak completes.",
+      "timestamp": "2026-08-10T18:18:33+00:00",
+      "summary": "A new web browser exploit allows jailbreaking PS5 consoles running firmware 9.0 to 12.0. The video provides detailed setup guides, including custom DNS configuration and payload injection methods.",
       "highlights": [
-        "Supports firmware versions from 9.0 to 12.0.",
-        "Can be set up using the public DNS server 62.210.38.117 for console-only use.",
-        "An alternative installation method uses a local host running on a computer's IP address.",
-        "The autoloader allows automatic loading of payloads like Payload Manager, Kstuff Light, and Shadow Mount Plus."
+        "Web browser jailbreak supports firmware 9.0 to 12.0 (initial release); future exploits may reach 12.70.",
+        "Detailed setup requires changing network settings and using custom DNS servers (e.g., 456.67.67.85).",
+        "Workarounds are provided for ISP/router blocking, including hosting a local DNS server.",
+        "Post-jailbreak, users can install a Web Browser shortcut for easy access or use payload injection.",
+        "The exploit utilizes various hosts, including Jordi's and Echo Stretch's sites."
       ],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/ZKNtljwGX84/hqdefault.jpg"
-    },
-    {
-      "id": "reddit:1vmozjs",
-      "source": "reddit",
-      "title": "UNIFIED WEBKIT EXPLOIT (1.00-5.50 and 9.00-12.00)",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vmozjs/unified_webkit_exploit_100550_and_9001200/",
-      "author": "u/SosiasBlack",
-      "timestamp": "2026-08-12T20:02:55+00:00",
-      "summary": "Hey everyone, it's me again, after PS Play and PS5 Tool I put together a single-page exploit host that detects your PS5 firmware and runs the right chain automatically: https://mounirhero.github.io/w…",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vmmd7u",
-      "source": "reddit",
-      "title": "Lucked up but limited",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vmmd7u/lucked_up_but_limited/",
-      "author": "u/pnut2trill",
-      "timestamp": "2026-08-12T18:26:58+00:00",
-      "summary": "A PS5 jailbroken on firmware 11.40, but its functionality is limited without etaHen. The user plans to fill it with PS4 and PS5 packages.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vme5oq",
-      "source": "reddit",
-      "title": "11.60 Slim Digital Jailbroken!!",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vme5oq/1160_slim_digital_jailbroken/",
-      "author": "u/qwertyuiop1158",
-      "timestamp": "2026-08-12T13:27:57+00:00",
-      "summary": "Jailbreak for PS5 Slim Digital 11.60 achieved using Jordy Webkit.",
-      "highlights": [],
       "category": "FW Updates",
       "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vm7c7d",
-      "source": "reddit",
-      "title": "Release Kstuff Lite 1.10 Beta · EchoStretch/kstuff-lite",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vm7c7d/release_kstuff_lite_110_beta_echostretchkstufflite/",
-      "author": "u/a1mhtar",
-      "timestamp": "2026-08-12T07:34:16+00:00",
-      "summary": "Kstuff Lite 1.10 Beta is released, supporting Firmware 3.00-12.70 with improved stability and performance.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vm2s3b",
-      "source": "reddit",
-      "title": "The language limitation of Japanese-only consoles",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vm2s3b/the_language_limitation_of_japaneseonly_consoles/",
-      "author": "u/JaydenNioh",
-      "timestamp": "2026-08-12T03:25:49+00:00",
-      "summary": "PS5 Slim owner (Japanese-only) asks if jailbreaking or using backups can bypass system language limitations or change the console's display language.",
-      "highlights": [],
-      "category": "News",
-      "score": null,
-      "thumbnail": ""
+      "thumbnail": "https://i.ytimg.com/vi/g-1NwaNcq3I/hqdefault.jpg"
     }
   ]
 }
