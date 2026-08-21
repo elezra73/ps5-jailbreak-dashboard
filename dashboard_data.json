@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20 05:01 Israel Time",
+  "last_updated": "2026-08-21 05:02 Israel Time",
   "ai_overview": "A new WebKit jailbreak has been released, offering compatibility with PS5 firmware up to version 12.00. An early setup guide is now available for users wishing to deploy the exploit on supported consoles.",
   "generated_by": "LM Studio",
   "posts": [
@@ -112,116 +112,6 @@
       "category": "Tools",
       "score": null,
       "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vnszoy",
-      "source": "reddit",
-      "title": "PS4/PS5 Jailbreak News: New Bug Reports, Linux coming for 13.42?, Kstuff 1.10, WebKit Updates & More--MODDED WARFARE",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vnszoy/ps4ps5_jailbreak_news_new_bug_reports_linux/",
-      "author": "u/Sudden-Ad-4385",
-      "timestamp": "2026-08-14T01:03:55+00:00",
-      "summary": "New bug reports and updates for PS4/PS5 jailbreak, including Linux rumors and Kstuff 1.10.",
-      "highlights": [],
-      "category": "News",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "youtube:8QzgoqG9kWM",
-      "source": "youtube",
-      "title": "PS4/PS5 Jailbreak News: New Bug Reports, Linux coming for 13.42?, Kstuff 1.10, WebKit Updates & More",
-      "link": "https://www.youtube.com/watch?v=8QzgoqG9kWM",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-08-13T23:35:14+00:00",
-      "summary": "Hey, how's it going guys? Welcome back to another jailbreak update. So, first up, Gina has been going crazy with the bug reports with four new bugs reported to PlayStation via the Hacker 1 bug bounty program. Three of them appear to be low…",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/8QzgoqG9kWM/hqdefault.jpg"
-    },
-    {
-      "id": "reddit:1vngexv",
-      "source": "reddit",
-      "title": "Jailbreak options for FW 8.20.02",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vngexv/jailbreak_options_for_fw_82002/",
-      "author": "u/Shift_X",
-      "timestamp": "2026-08-13T16:56:45+00:00",
-      "summary": "FW 8.20.02 supports jailbreak via known exploits without requiring a special game.",
-      "highlights": [],
-      "category": "News",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vneiol",
-      "source": "reddit",
-      "title": "PS Play 2.0",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vneiol/ps_play_20/",
-      "author": "u/SosiasBlack",
-      "timestamp": "2026-08-13T15:49:25+00:00",
-      "summary": "PS Play 2.0 features bug fixes and new functionalities, detailed in GitHub changelog.",
-      "highlights": [],
-      "category": "Apps",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vnax7w",
-      "source": "reddit",
-      "title": "Game installed with either kstuff or shadowmount registers correctly but does not fully boot instead creating an old 3d looking warped boot logo image and doing nothing else",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vnax7w/game_installed_with_either_kstuff_or_shadowmount/",
-      "author": "u/JustARedditPasserby",
-      "timestamp": "2026-08-13T13:35:41+00:00",
-      "summary": "Sonic X Shadow Generations fails to boot past a warped 3D logo; issue occurs with kstuff/shadowmount; payload not properly initiated.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vna52j",
-      "source": "reddit",
-      "title": "Apps dont install to homescreen. Fresh PS5 10.60",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vna52j/apps_dont_install_to_homescreen_fresh_ps5_1060/",
-      "author": "u/PositiveApartment382",
-      "timestamp": "2026-08-13T13:03:49+00:00",
-      "summary": "PS5 10.60 factory reset users report app installation fails to appear on homescreen after jailbreak.",
-      "highlights": [],
-      "category": "News",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "reddit:1vn2e80",
-      "source": "reddit",
-      "title": "The new WebKit autoloader test with Fatlady 10.01",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1vn2e80/the_new_webkit_autoloader_test_with_fatlady_1001/",
-      "author": "u/Bozkurt674674",
-      "timestamp": "2026-08-13T06:04:50+00:00",
-      "summary": "WebKit autoloader 10.01 works with Fat Lady, loads autoloader.txt automatically via Y2JB without needing Payload Manager or console reinstallation.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "youtube:g-1NwaNcq3I",
-      "source": "youtube",
-      "title": "New PS5 WebKit Jailbreak up to 12.00 is Here! (Early Setup Guide)",
-      "link": "https://www.youtube.com/watch?v=g-1NwaNcq3I",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-08-10T18:18:33+00:00",
-      "summary": "A new web browser exploit allows jailbreaking PS5 consoles running firmware 9.0 to 12.0. The video provides detailed setup guides, including custom DNS configuration and payload injection methods.",
-      "highlights": [
-        "Web browser jailbreak supports firmware 9.0 to 12.0 (initial release); future exploits may reach 12.70.",
-        "Detailed setup requires changing network settings and using custom DNS servers (e.g., 456.67.67.85).",
-        "Workarounds are provided for ISP/router blocking, including hosting a local DNS server.",
-        "Post-jailbreak, users can install a Web Browser shortcut for easy access or use payload injection.",
-        "The exploit utilizes various hosts, including Jordi's and Echo Stretch's sites."
-      ],
-      "category": "FW Updates",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/g-1NwaNcq3I/hqdefault.jpg"
     }
   ]
 }
