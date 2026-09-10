@@ -1,6 +1,72 @@
 {
-  "last_updated": "2026-09-09 05:00 Israel Time",
-  "ai_overview": "A new WebKit jailbreak has been released, offering compatibility with PS5 firmware up to version 12.00. An early setup guide is now available for users wishing to deploy the exploit on supported consoles.",
+  "last_updated": "2026-09-10 05:00 Israel Time",
+  "ai_overview": "Significant progress has been made regarding PS5 firmware exploits. Fake packages are now available, allowing users to jailbreak consoles running firmware up to version 11.40 using the fpkg builder and associated tools.",
   "generated_by": "LM Studio",
-  "posts": []
+  "posts": [
+    {
+      "id": "reddit:1wbynxz",
+      "source": "reddit",
+      "title": "Years later :)",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbynxz/years_later/",
+      "author": "u/Repshitt2",
+      "timestamp": "2026-09-09T21:17:53+00:00",
+      "summary": "FPKGs are available for PS5 jailbreak.",
+      "highlights": [],
+      "category": "FW Updates",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1wbf928",
+      "source": "reddit",
+      "title": "Fake Packages Announced for PS5 up to 11.40 with fpkg builder & More!",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wbf928/fake_packages_announced_for_ps5_up_to_1140_with/",
+      "author": "u/Realistic_Wing5796",
+      "timestamp": "2026-09-09T08:02:40+00:00",
+      "summary": "Fake packages for PS5 up to 11.40 are available using the fpkg builder.",
+      "highlights": [],
+      "category": "FW Updates",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1wav8h9",
+      "source": "reddit",
+      "title": "fpkg-gui released by Drakmor",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wav8h9/fpkggui_released_by_drakmor/",
+      "author": "u/dragancla",
+      "timestamp": "2026-09-08T17:38:09+00:00",
+      "summary": "fpkg-gui allows converting PS5 game backups into .fpkg format for firmwares 11.40 and lower. Installation requires SM+ and kstuff updates.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1wa9l5w",
+      "source": "reddit",
+      "title": "PS5 FW 12.00 (Poopicker / WebKit) - PS5 games crash with CE-108255-1 ~1 min after launch",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wa9l5w/ps5_fw_1200_poopicker_webkit_ps5_games_crash_with/",
+      "author": "u/Simple_Broccoli_292",
+      "timestamp": "2026-09-08T00:42:28+00:00",
+      "summary": "PS5 firmware 12.00 reported causing crash CE-108255-1 in games shortly after launch.",
+      "highlights": [],
+      "category": "FW Updates",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1w97y4i",
+      "source": "reddit",
+      "title": "ProsperoTV",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1w97y4i/prosperotv/",
+      "author": "u/BeingClassic6992",
+      "timestamp": "2026-09-06T20:54:33+00:00",
+      "summary": "A potential fix for unsupported encryption issues related to ProsperoTV has been submitted on Reddit.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    }
+  ]
 }
