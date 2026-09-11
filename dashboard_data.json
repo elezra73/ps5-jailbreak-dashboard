@@ -1,8 +1,47 @@
 {
-  "last_updated": "2026-09-10 05:00 Israel Time",
-  "ai_overview": "Significant progress has been made regarding PS5 firmware exploits. Fake packages are now available, allowing users to jailbreak consoles running firmware up to version 11.40 using the fpkg builder and associated tools.",
+  "last_updated": "2026-09-11 05:00 Israel Time",
+  "ai_overview": "The dashboard provides essential guides on applying game patches and utilizing internal NVMe drives for game installation. Furthermore, new resources have been added to assist users who are new to the jailbreak process.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1wd2p9u",
+      "source": "reddit",
+      "title": "Applying Game Patches",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wd2p9u/applying_game_patches/",
+      "author": "u/No_Rule_4857",
+      "timestamp": "2026-09-11T01:52:04+00:00",
+      "summary": "User asks if applying a patch file to a PS5 game disc dump will corrupt the dump, assuming firmware compatibility.",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1wcjvyn",
+      "source": "reddit",
+      "title": "New to jailbreak help",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wcjvyn/new_to_jailbreak_help/",
+      "author": "u/apologitic_mercy5683",
+      "timestamp": "2026-09-10T13:53:57+00:00",
+      "summary": "A user asks for essential downloads after jailbreaking PS5 12.70, mentioning Shadowmount Plus, Onion Hen, KStuff, and Game Compressor.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1wceui4",
+      "source": "reddit",
+      "title": "Games on internal installed nvme",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wceui4/games_on_internal_installed_nvme/",
+      "author": "u/Daroxx",
+      "timestamp": "2026-09-10T10:03:55+00:00",
+      "summary": "Guide on locating and accessing the 2TB NVMe drive for PS5 jailbreak file transfers.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1wbynxz",
       "source": "reddit",
