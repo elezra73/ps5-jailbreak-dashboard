@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-09-14 05:01 Israel Time",
-  "ai_overview": "The dashboard provides a technical comparison between exploit viability for firmware versions 7.61 and 13.60. Current discussions center on whether the successful exploit is functioning as a full jailbreak or if it relies on emulation methods.",
+  "last_updated": "2026-09-15 05:00 Israel Time",
+  "ai_overview": "A new exploit chain, Bagagwa_chain, has been released for PS5 devices. This project provides a functional exploit targeting firmware version 13.40, offering researchers and users a new method for achieving system access.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1wgh4z3",
+      "source": "reddit",
+      "title": "Bagagwa_chain – new PS5 13.40 chain/exploit project",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wgh4z3/bagagwa_chain_new_ps5_1340_chainexploit_project/",
+      "author": "u/superbizho",
+      "timestamp": "2026-09-14T21:44:09+00:00",
+      "summary": "Bagagwa_chain is a new PS5 exploit/chaining research project by X1NONs, focused on developing and testing component chains for PS5 vulnerabilities.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1wfqdhc",
       "source": "reddit",
@@ -275,38 +288,6 @@
       "category": "Tools",
       "score": null,
       "thumbnail": ""
-    },
-    {
-      "id": "reddit:1wa9l5w",
-      "source": "reddit",
-      "title": "PS5 FW 12.00 (Poopicker / WebKit) - PS5 games crash with CE-108255-1 ~1 min after launch",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wa9l5w/ps5_fw_1200_poopicker_webkit_ps5_games_crash_with/",
-      "author": "u/Simple_Broccoli_292",
-      "timestamp": "2026-09-08T00:42:28+00:00",
-      "summary": "PS5 firmware 12.00 reported causing crash CE-108255-1 in games shortly after launch.",
-      "highlights": [],
-      "category": "FW Updates",
-      "score": null,
-      "thumbnail": ""
-    },
-    {
-      "id": "youtube:Ngn8gZvvNhA",
-      "source": "youtube",
-      "title": "How to Jailbreak the PS4 with the Web Browser on 13.00 or lower",
-      "link": "https://www.youtube.com/watch?v=Ngn8gZvvNhA",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-09-07T09:40:27+00:00",
-      "summary": "This guide details how to jailbreak PS4 consoles running firmware 7.0 through 13.0 using a web browser payload. It covers the necessary steps for updating to firmware 13.0 and setting up network connectivity.",
-      "highlights": [
-        "Supports PS4 firmware versions 7.0 through 13.0 for jailbreaking.",
-        "Detailed instructions provided for updating to firmware 13.0 via USB drive structure (PS4/update).",
-        "Successful jailbreak loading is achieved using a web browser payload, often running GoldHEN.",
-        "Specific custom DNS addresses (e.g., 45.56.67.85) are provided to block Sony servers.",
-        "The process requires clearing browser cache and history for reliable payload loading."
-      ],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/Ngn8gZvvNhA/hqdefault.jpg"
     }
   ]
 }
