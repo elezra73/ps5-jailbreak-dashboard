@@ -1,8 +1,65 @@
 {
-  "last_updated": "2026-09-19 05:02 Israel Time",
-  "ai_overview": "The current jailbreak status for firmware 13.60 has been confirmed, with significant developments regarding exploit availability. New resources include the HV Exploit and Fpkgs, alongside Lua games utilizing a laytest kxploit.",
+  "last_updated": "2026-09-20 05:04 Israel Time",
+  "ai_overview": "",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1wl456j",
+      "source": "reddit",
+      "title": "FPKG now supports 11.60",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wl456j/fpkg_now_supports_1160/",
+      "author": "u/Hunt846",
+      "timestamp": "2026-09-20T01:59:37+00:00",
+      "summary": "FPKG now supports firmware version 11.60, extending compatibility to all versions below 12.00. Specific installation files are available.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "youtube:3EVhd7mLpKM",
+      "source": "youtube",
+      "title": "PS4 13.52 Jailbreak Released! (Overview & Setup)",
+      "link": "https://www.youtube.com/watch?v=3EVhd7mLpKM",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-09-20T01:00:41+00:00",
+      "summary": "A jailbreak exploit has been released for PS4 consoles running firmware up to 13.52, allowing users to run HEN. While PSN access is technically possible on 13.52, extreme caution is advised to prevent account bans.",
+      "highlights": [
+        "Jailbreak released for PS4 firmware 13.52, including earlier versions like 13.02 and 13.04.",
+        "The exploit utilizes PS4 HEN, initially running the open-source version while awaiting Gold Hen.",
+        "Detailed setup guides provided for blocking Sony servers using custom DNS (e.g., 62.210.38.117).",
+        "The jailbreak is accessed via a browser at raw13g.github.io, which caches the exploit for offline use."
+      ],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/3EVhd7mLpKM/hqdefault.jpg"
+    },
+    {
+      "id": "reddit:1wl0hq9",
+      "source": "reddit",
+      "title": "just 0.08",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wl0hq9/just_008/",
+      "author": "u/whiteblu3",
+      "timestamp": "2026-09-19T23:08:38+00:00",
+      "summary": "A visual update regarding a specific technical detail or exploit status, titled 'just 0.08'.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1wklmm6",
+      "source": "reddit",
+      "title": "Stupid idea",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wklmm6/stupid_idea/",
+      "author": "u/Next_Cranberry3605",
+      "timestamp": "2026-09-19T12:59:58+00:00",
+      "summary": "Discussion on using the hypervisor exploit (post-13.60) to run Linux and attempt booting Windows installation files from a USB drive.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1wk475s",
       "source": "reddit",
@@ -145,6 +202,25 @@
       "category": "FW Updates",
       "score": null,
       "thumbnail": ""
+    },
+    {
+      "id": "youtube:FGPv3roYyJA",
+      "source": "youtube",
+      "title": "PS4/PS5 Jailbreak Update: 14.00 Patch Released, theflow quits the scene & 13.60 Jailbreak Preview.",
+      "link": "https://www.youtube.com/watch?v=FGPv3roYyJA",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-09-17T21:47:48+00:00",
+      "summary": "Sony has released firmware version 14.0 for both PS4 and PS5, adding new features like enhanced PSSR. Jailbreak development continues with Sonic ISO providing proof-of-concept exploits for firmware up to 13.60.",
+      "highlights": [
+        "PS4/PS5 received matching firmware version 14.0, including enhanced PSSR and community hubs on PS5.",
+        "Jailbreaking requires staying on PS5 firmware 13.60 or below; kernel exploit is patched in 14.0.",
+        "Sonic ISO shared proof-of-concept videos showing the exploit running on firmware 13.60, loading in seconds.",
+        "NASI released an easy tool to convert games to LZ4 format, though advanced conversion requires EMR emulator traces.",
+        "Joker's DeadOps GSC loader allows injecting mods and converting PC builds for Black Ops 1 & 2 on PS4/PS5."
+      ],
+      "category": "News",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/FGPv3roYyJA/hqdefault.jpg"
     },
     {
       "id": "reddit:1wj6piz",
@@ -366,19 +442,6 @@
       "category": "Games",
       "score": null,
       "thumbnail": ""
-    },
-    {
-      "id": "youtube:cp1V0T_zQzM",
-      "source": "youtube",
-      "title": "PS4/PS5 Jailbreak News: 13.60 Bug Leaked, PS5 FPKGs Working, PS4 13.52 claims, OnionHEN & Homebrew!",
-      "link": "https://www.youtube.com/watch?v=cp1V0T_zQzM",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-09-12T02:15:38+00:00",
-      "summary": "Hey, how's it going guys? Welcome back to another PS4 and PS5 jailbreak news update. So, it seems like we might be entering some kind of golden era of PS5 jailbreaking over the next few days and weeks with all of the crazy new developments…",
-      "highlights": [],
-      "category": "Games",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/cp1V0T_zQzM/hqdefault.jpg"
     }
   ]
 }
