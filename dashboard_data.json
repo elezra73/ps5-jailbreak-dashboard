@@ -1,8 +1,60 @@
 {
-  "last_updated": "2026-09-21 05:01 Israel Time",
-  "ai_overview": "A new PS5 WebKit Autoloader has been released, providing a method for exploitation using umtx2 and slopkit/poops. This critical tool allows users to manage exploits on the PS5 homescreen environment. Additionally, FPKG is now available for those running firmware 13.60.",
+  "last_updated": "2026-09-22 05:01 Israel Time",
+  "ai_overview": "factory f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1wmqois",
+      "source": "reddit",
+      "title": "Working on a PCSX2 port for PS5!",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wmqois/working_on_a_pcsx2_port_for_ps5/",
+      "author": "u/spkrou",
+      "timestamp": "2026-09-21T21:53:06+00:00",
+      "summary": "At the time of the post it was really slow, now its running at about 50% speed. Getting there :) submitted by /u/spkrou [link] [comments]",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1wmfbtn",
+      "source": "reddit",
+      "title": "Updating from Jailbroken 10.01 to 13.60 to pair disk drive",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wmfbtn/updating_from_jailbroken_1001_to_1360_to_pair/",
+      "author": "u/DJSave",
+      "timestamp": "2026-09-21T15:03:27+00:00",
+      "summary": "I updated from Jailbroken 10.01 to 13.60 to pair disk drive, pairde it, logged in to my online profile as well. all worked fine. then I shutdown my PS5 and waiting for new JB. My question is: I did f…",
+      "highlights": [],
+      "category": "Apps",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1wmd6vi",
+      "source": "reddit",
+      "title": "I'm blown away at how fast the PS5 emulator scene is ramping up.",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wmd6vi/im_blown_away_at_how_fast_the_ps5_emulator_scene/",
+      "author": "u/itsthewolfe",
+      "timestamp": "2026-09-21T13:42:59+00:00",
+      "summary": "We went from Demon Souls running at 1FPS to 30FPS in a week. Now the rumor is they have multiple 3D titles running between 30-40 FPS in the next release! I definitely didn't have this on my bingo car…",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1wm781r",
+      "source": "reddit",
+      "title": "LLMs for exploit discovery",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wm781r/llms_for_exploit_discovery/",
+      "author": "u/beneschk",
+      "timestamp": "2026-09-21T08:47:28+00:00",
+      "summary": "Id like to start an open discussion surrounding the use of AI to find vulnerbilities and develop working exploits. It seems the dev community is divided on the use of AI and I think that will be the…",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1wlw0ek",
       "source": "reddit",
@@ -429,19 +481,6 @@
       "category": "Games",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/RynNBuaARAc/hqdefault.jpg"
-    },
-    {
-      "id": "reddit:1wgh4z3",
-      "source": "reddit",
-      "title": "Bagagwa_chain – new PS5 13.40 chain/exploit project",
-      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wgh4z3/bagagwa_chain_new_ps5_1340_chainexploit_project/",
-      "author": "u/superbizho",
-      "timestamp": "2026-09-14T21:44:09+00:00",
-      "summary": "Bagagwa_chain is a new PS5 exploit/chaining research project by X1NONs, focused on developing and testing component chains for PS5 vulnerabilities.",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": ""
     }
   ]
 }
