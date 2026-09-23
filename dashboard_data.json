@@ -1,8 +1,83 @@
 {
-  "last_updated": "2026-09-22 05:01 Israel Time",
-  "ai_overview": "factory f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f f",
+  "last_updated": "2026-09-23 05:04 Israel Time",
+  "ai_overview": "Recent developments include a teaser regarding PS5 jailbreak efforts targeting firmware 14.00, alongside crucial stability updates for existing platforms. GoldHEN and FPKG tools now offer support up to firmware version 13.60, providing enhanced compatibility for homebrew usage.",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1wnquf3",
+      "source": "reddit",
+      "title": "PS4/PS5 Jailbreak News: 14.00 JB teaser, Kstuff 13.60 & FPKG support, GoldHEN 13.52, Homebrew & More -- MODDED WARFARE",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wnquf3/ps4ps5_jailbreak_news_1400_jb_teaser_kstuff_1360/",
+      "author": "u/Sudden-Ad-4385",
+      "timestamp": "2026-09-23T00:25:58+00:00",
+      "summary": "PS4/PS5 jailbreak news roundup: Teaser for 14.00 JB, Kstuff v13.60 & FPKG support, and GoldHEN v13.52 updates available.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1wnpb7x",
+      "source": "reddit",
+      "title": "Fpkg for everyone.",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wnpb7x/fpkg_for_everyone/",
+      "author": "u/CallMeIshMale91",
+      "timestamp": "2026-09-22T23:19:56+00:00",
+      "summary": "FPKG is now available for all PS5 firmwares ranging from 1.xx to 13.60.",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "youtube:i0O2o2ZhnTg",
+      "source": "youtube",
+      "title": "PS4/PS5 Jailbreak News: 14.00 JB teaser, Kstuff 13.60 & FPKG support, GoldHEN 13.52, Homebrew & More",
+      "link": "https://www.youtube.com/watch?v=i0O2o2ZhnTg",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-09-22T22:41:29+00:00",
+      "summary": "PS5 jailbreak is nearing release for firmware up to 13.60, with Kstuff Lite v1.11 beta available for testing. Meanwhile, the PS4 13.52 jailbreak is stable with fixes implemented in major exploit sites.",
+      "highlights": [
+        "PS5 jailbreak nearing release for firmware up to 13.60, with Nathan Fargo testing the exploit.",
+        "Kstuff Lite v1.11 beta supports up to 13.60, including Dramore's fake package method.",
+        "PS4 13.52 jailbreak is stable with GoldHEN B18.12; AIO issues are now resolved in main exploit sites.",
+        "A new PLK package manager is available for installation via the payload manager on both platforms."
+      ],
+      "category": "News",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/i0O2o2ZhnTg/hqdefault.jpg"
+    },
+    {
+      "id": "reddit:1wn8ejh",
+      "source": "reddit",
+      "title": "6.50fw vs 11.60 vs 13.60 Pro - Needing community advice on best route",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1wn8ejh/650fw_vs_1160_vs_1360_pro_needing_community/",
+      "author": "u/Actual-Mycologist382",
+      "timestamp": "2026-09-22T12:40:47+00:00",
+      "summary": "User seeks advice on managing three PS5 consoles (6.50, 11.60, 13.60 Pro) to balance online play, jailbreaking progression, and minimizing ban risk with the upcoming 13.60 exploit.",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "youtube:8f6_EV8y0ak",
+      "source": "youtube",
+      "title": "PS4 GoldHEN 2.4b18.12 Released for 13.02 to 13.52 plus AIO Patches for Black Screen & Save fixes!",
+      "link": "https://www.youtube.com/watch?v=8f6_EV8y0ak",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-09-21T23:31:25+00:00",
+      "summary": "GoldHEN version 2.4 B18.12 has been released, bringing support for all jailbreakable firmwares up to 13.52. This update also includes AIO patches intended to fix save corruption and black screen issues in certain games.",
+      "highlights": [
+        "GoldHEN version 2.4 B18.12 is released and supports firmware from 13.02 through 13.52.",
+        "AIO fix patches are available to address save corruption and black screen errors in specific titles.",
+        "The jailbreak can now load successfully on any supported firmware version once cached via the exploit site.",
+        "A dedicated AIO fix payload is required for full compatibility with older exploits and game data."
+      ],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/8f6_EV8y0ak/hqdefault.jpg"
+    },
     {
       "id": "reddit:1wmqois",
       "source": "reddit",
@@ -132,6 +207,19 @@
       "category": "Tools",
       "score": null,
       "thumbnail": ""
+    },
+    {
+      "id": "youtube:e-GqRSbLiEA",
+      "source": "youtube",
+      "title": "PS4 GoldHEN 2.4b18.11 Released with 13.52 Support (Overview & Setup)",
+      "link": "https://www.youtube.com/watch?v=e-GqRSbLiEA",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-09-20T18:42:08+00:00",
+      "summary": "Hey, how's it going, guys? Welcome back to another PS4 jailbreak guide. So, we now have the release of GoldHEN version 2.4 b18.11. This version specifically adds support for 13.52. However, as it states here in the release, it says it curr…",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/e-GqRSbLiEA/hqdefault.jpg"
     },
     {
       "id": "reddit:1wllw2r",
@@ -468,19 +556,6 @@
       "category": "News",
       "score": null,
       "thumbnail": ""
-    },
-    {
-      "id": "youtube:RynNBuaARAc",
-      "source": "youtube",
-      "title": "PS4/PS5 Jailbreak News: 13.60 Hypervisor Bug?, PS4 JB Updates, PS5 FPKG Progress, Emulators & More!",
-      "link": "https://www.youtube.com/watch?v=RynNBuaARAc",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-09-15T20:45:52+00:00",
-      "summary": "Hey, how's it going, guys? Welcome back to another PS4 and PS5 jailbreak news update. So, the news updates are coming in thick and fast here, starting with this post here from Jordi saying, \"Remember when I said do not update? Here's why.…",
-      "highlights": [],
-      "category": "Games",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/RynNBuaARAc/hqdefault.jpg"
     }
   ]
 }
