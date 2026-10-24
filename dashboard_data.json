@@ -1,8 +1,99 @@
 {
-  "last_updated": "2026-10-22 05:02 Israel Time",
+  "last_updated": "2026-10-24 05:08 Israel Time",
   "ai_overview": "",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1xdsvtn",
+      "source": "reddit",
+      "title": "Sony is forcing 14.20 down my throat",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xdsvtn/sony_is_forcing_1420_down_my_throat/",
+      "author": "u/Toe-Knee05",
+      "timestamp": "2026-10-23T23:06:23+00:00",
+      "summary": "I’m on 14.10 rn. Never jailbroken my PlayStation but I want to keep my options open in case there’s some sort of progress around GTA VI and not having to become a digital PS store slave. But this upd…",
+      "highlights": [],
+      "category": "Apps",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1xdqthd",
+      "source": "reddit",
+      "title": "Bought a refurbished PS5 from Sony. Came with 11.20",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xdqthd/bought_a_refurbished_ps5_from_sony_came_with_1120/",
+      "author": "u/Simpleziel",
+      "timestamp": "2026-10-23T21:35:48+00:00",
+      "summary": "I expected at least lower then 14 but 11.20, man thats lucky. FPKG support already for me now submitted by /u/Simpleziel [link] [comments]",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1xdpcst",
+      "source": "reddit",
+      "title": "Geometry Wars: Retro Evolved 2 running natively on PS5: 4K, 120 Hz",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xdpcst/geometry_wars_retro_evolved_2_running_natively_on/",
+      "author": "u/Gary_BBGames",
+      "timestamp": "2026-10-23T20:37:05+00:00",
+      "summary": "Quick heads up: I am on holiday. I built and tested this as I was also packing and getting my kids ready. It's tested, but not tested 100% I've ported Geometry Wars: Retro Evolved 2 to PS5 homebrew.…",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1xdoxds",
+      "source": "reddit",
+      "title": "Introducing PlayTime — A New PS5 Payload",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xdoxds/introducing_playtime_a_new_ps5_payload/",
+      "author": "u/hosseini1992",
+      "timestamp": "2026-10-23T20:19:45+00:00",
+      "summary": "After releasing WelcomeHubActivator , which received some great feedback from the community, I decided to work on something different! I've developed PlayTime , a payload for jailbroken PS5 consoles…",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1xdow4f",
+      "source": "reddit",
+      "title": "Jailbreak stops working while gaming",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xdow4f/jailbreak_stops_working_while_gaming/",
+      "author": "u/Beginning_Gap_9671",
+      "timestamp": "2026-10-23T20:18:18+00:00",
+      "summary": "Hi everyone, I’m on fw 13.40 and was just playing Ghost of Yotei, the game closed and I can’t open it back. Is this normal? I had to restart the console and activate Y2JB again to continue playing. I…",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "youtube:AzJxDSp9KpU",
+      "source": "youtube",
+      "title": "Jailbreak News: Switch 2 Jailbreak Released, PS3 keys dumped & Xbox 360 soft mod!",
+      "link": "https://www.youtube.com/watch?v=AzJxDSp9KpU",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-10-23T11:24:06+00:00",
+      "summary": "Jailbreak News: Switch 2 Jailbreak Released, PS3 keys dumped & Xbox 360 soft mod!",
+      "highlights": [],
+      "category": "News",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/AzJxDSp9KpU/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:lV84a3trc-k",
+      "source": "youtube",
+      "title": "PS5 Jailbreak News: 14.20 Update Released, FPKGS patched, PC games without Linux & More!",
+      "link": "https://www.youtube.com/watch?v=lV84a3trc-k",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-10-21T19:50:09+00:00",
+      "summary": "PS5 Jailbreak News: 14.20 Update Released, FPKGS patched, PC games without Linux & More!",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/lV84a3trc-k/hqdefault.jpg"
+    },
     {
       "id": "reddit:1xbeh4x",
       "source": "reddit",
@@ -93,6 +184,45 @@
       "category": "Games",
       "score": null,
       "thumbnail": ""
+    },
+    {
+      "id": "youtube:Ts2bB0RT38U",
+      "source": "youtube",
+      "title": "New PS5 14.10 Exploit Teaser!",
+      "link": "https://www.youtube.com/watch?v=Ts2bB0RT38U",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-10-20T05:43:28+00:00",
+      "summary": "New PS5 14.10 Exploit Teaser!",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/Ts2bB0RT38U/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:vr9Ok7XYIIY",
+      "source": "youtube",
+      "title": "PS4/PS5 Jailbreak News: PS5 Linux Release, FPKG Update, HV, Bar, Homebrew, Emulators & More",
+      "link": "https://www.youtube.com/watch?v=vr9Ok7XYIIY",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-10-19T10:46:07+00:00",
+      "summary": "PS4/PS5 Jailbreak News: PS5 Linux Release, FPKG Update, HV, Bar, Homebrew, Emulators & More",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/vr9Ok7XYIIY/hqdefault.jpg"
+    },
+    {
+      "id": "youtube:iqni2550gr8",
+      "source": "youtube",
+      "title": "Play PS3, PS2, Wii-U, Wii Games and More on a Jailbroken PS4 (13.52 or lower)",
+      "link": "https://www.youtube.com/watch?v=iqni2550gr8",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-10-18T08:00:05+00:00",
+      "summary": "Play PS3, PS2, Wii-U, Wii Games and More on a Jailbroken PS4 (13.52 or lower)",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/iqni2550gr8/hqdefault.jpg"
     }
   ]
 }
