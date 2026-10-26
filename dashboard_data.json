@@ -1,8 +1,73 @@
 {
-  "last_updated": "2026-10-25 05:03 Israel Time",
+  "last_updated": "2026-10-26 05:04 Israel Time",
   "ai_overview": "",
   "generated_by": "LM Studio",
   "posts": [
+    {
+      "id": "reddit:1xfl6db",
+      "source": "reddit",
+      "title": "(Demo) Legend Of Dragoon Recomp PS5 Port made with PSX Static Recomp tool for PS5",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xfl6db/demo_legend_of_dragoon_recomp_ps5_port_made_with/",
+      "author": "u/Mogi_codemasterv",
+      "timestamp": "2026-10-26T02:39:17+00:00",
+      "summary": "Hello All, I am currently working on a PSX static recomp tool for PS5. So far I have 2 working games using this tool. Policenauts and Legend of Dragoon. Some features are the use of usb mouse and tou…",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1xferhl",
+      "source": "reddit",
+      "title": "New Exploit website? HELP",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xferhl/new_exploit_website_help/",
+      "author": "u/Mediocre-Umpire5778",
+      "timestamp": "2026-10-25T21:45:27+00:00",
+      "summary": "Restarted already jailbroken 8.20 ps5 and hooked up to my wifi with 45.56.67.85 as primary dns and got this. Where is the jailbreak screen????? Im so confused, what happened submitted by /u/Mediocre-…",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1xfchff",
+      "source": "reddit",
+      "title": "New to JB",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xfchff/new_to_jb/",
+      "author": "u/WapbutDap-DryAssPusy",
+      "timestamp": "2026-10-25T20:11:42+00:00",
+      "summary": "Hi all, I've read through this sub a good bit and have seen all kinds of rage bait posts about auto updating or \"updated by itself\" but I assure you, this is not one of those. I have several question…",
+      "highlights": [],
+      "category": "FW Updates",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1xfc8g2",
+      "source": "reddit",
+      "title": "Working on an All-in-One PS5 Jailbreak App",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xfc8g2/working_on_an_allinone_ps5_jailbreak_app/",
+      "author": "u/caffnxir",
+      "timestamp": "2026-10-25T20:01:40+00:00",
+      "summary": "Hey everyone! I’m currently developing an all-in-one app for jailbroken PS5 consoles. The goal is to bring everything together in one place, including: - Support for multiple custom indexers (Torrent…",
+      "highlights": [],
+      "category": "Tools",
+      "score": null,
+      "thumbnail": ""
+    },
+    {
+      "id": "reddit:1xfb1ji",
+      "source": "reddit",
+      "title": "[Release] PSCord: an unofficial Discord client for jailbroken PS5, with text chat, voice calls and a built-in unblock (free)",
+      "link": "https://www.reddit.com/r/PS5_Jailbreak/comments/1xfb1ji/release_pscord_an_unofficial_discord_client_for/",
+      "author": "u/These_Fishing_3820",
+      "timestamp": "2026-10-25T19:15:06+00:00",
+      "summary": "https://preview.redd.it/p00lkg7mxnxh1.jpeg?width=1600&format=pjpg&auto=webp&s=670b9b7768b5c7049bcbc74836e71023004b7710 PSCord is a native Discord client for the jailbroken PS5. It is a standalone hom…",
+      "highlights": [],
+      "category": "Apps",
+      "score": null,
+      "thumbnail": ""
+    },
     {
       "id": "reddit:1xem5w5",
       "source": "reddit",
@@ -288,19 +353,6 @@
       "category": "Games",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/vr9Ok7XYIIY/hqdefault.jpg"
-    },
-    {
-      "id": "youtube:iqni2550gr8",
-      "source": "youtube",
-      "title": "Play PS3, PS2, Wii-U, Wii Games and More on a Jailbroken PS4 (13.52 or lower)",
-      "link": "https://www.youtube.com/watch?v=iqni2550gr8",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-10-18T08:00:05+00:00",
-      "summary": "Play PS3, PS2, Wii-U, Wii Games and More on a Jailbroken PS4 (13.52 or lower)",
-      "highlights": [],
-      "category": "Games",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/iqni2550gr8/hqdefault.jpg"
     }
   ]
 }
