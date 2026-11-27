@@ -1,8 +1,21 @@
 {
-  "last_updated": "2026-11-26 05:00 Israel Time",
-  "ai_overview": "1 new update(s) today across: News.",
+  "last_updated": "2026-11-27 05:00 Israel Time",
+  "ai_overview": "1 new update(s) today across: Games.",
   "generated_by": "fallback heuristics",
   "posts": [
+    {
+      "id": "youtube:XQadpAJgyeE",
+      "source": "youtube",
+      "title": "PS5 Jailbreak News: GTA-VI FPKG Released, A53 FPKGs, WobKot Autoloader, Windows 11 on PS5 & More!",
+      "link": "https://www.youtube.com/watch?v=XQadpAJgyeE",
+      "author": "MODDED WARFARE",
+      "timestamp": "2026-11-26T20:15:43+00:00",
+      "summary": "How's it going guys? Welcome back to another PS5 jailbreak news update. So, the floodgates have finally opened with GTA 6 as we now have a full game dump available for the game on jailbroken PS5s. So…",
+      "highlights": [],
+      "category": "Games",
+      "score": null,
+      "thumbnail": "https://i.ytimg.com/vi/XQadpAJgyeE/hqdefault.jpg"
+    },
     {
       "id": "youtube:byFnXfsk3pw",
       "source": "youtube",
@@ -41,19 +54,6 @@
       "category": "Games",
       "score": null,
       "thumbnail": "https://i.ytimg.com/vi/KgDkRnsFLuw/hqdefault.jpg"
-    },
-    {
-      "id": "youtube:r5_Miy0Bvl4",
-      "source": "youtube",
-      "title": "Wobkot a much Faster WebKit Jailbreak for PS4 & PS5!",
-      "link": "https://www.youtube.com/watch?v=r5_Miy0Bvl4",
-      "author": "MODDED WARFARE",
-      "timestamp": "2026-11-19T16:24:08+00:00",
-      "summary": "Yeah, how's it going, guys? Welcome back to another PS 4 and PS 5 jailbreak tutorial. So we have a huge improvement to the speed of the jailbreak on the PlayStation 5 and also on the PS 4. PS 4 is no…",
-      "highlights": [],
-      "category": "Tools",
-      "score": null,
-      "thumbnail": "https://i.ytimg.com/vi/r5_Miy0Bvl4/hqdefault.jpg"
     }
   ]
 }
